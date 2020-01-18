@@ -25,6 +25,13 @@ def hello_world():
     """BLAST query page"""
     return render_template("index.html")
 
+@app.route("/run_blast", methods=["POST"])
+def run_blast():
+    pass
+
+@app.route("/get_results", methods=["GET"])
+def get_results():
+    pass
 
 
 
