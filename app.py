@@ -22,15 +22,20 @@ app.secret_key = b'\x9b4\xf8%\x1b\x90\x0e[?\xbd\x14\x7fS\x1c\xe7Y\xd8\x1c\xf9\xd
 @app.route('/login')
 @app.route('/status')
 def hello_world():
-    """BLAST query page"""
+    """home page"""
     return render_template("index.html")
+
+@app.route("/blast")
+def blast_query():
+    """BLAST query page"""
+    return render_template("blast.html")
 
 @app.route("/run_blast", methods=["POST"])
 def run_blast():
     pass
 
-@app.route("/get_results", methods=["GET"])
-def get_results():
+@app.route("/check_results", methods=["GET"])
+def check_results():
     pass
 
 
