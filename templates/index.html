@@ -39,19 +39,14 @@
 					LC WebBlast
 				</span>
 
-				<div class="wrap-input100 validate-input bg1" data-validate="Please Type Your Name">
-					<span class="label-input100">FULL NAME *</span>
-					<input class="input100" type="text" name="name" placeholder="Enter Your Name">
-				</div>
-
 				<div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate = "Enter Your Email (e@a.x)">
-					<span class="label-input100">Email *</span>
-					<input class="input100" type="text" name="email" placeholder="Enter Your Email ">
+					<span class="label-input100">LC Email Address</span>
+					<input class="input100" type="text" name="email" placeholder="<you>@lclark.edu">
 				</div>
 
 				<div class="wrap-input100 bg1 rs1-wrap-input100">
-					<span class="label-input100">Phone</span>
-					<input class="input100" type="text" name="phone" placeholder="Enter Number Phone">
+					<span class="label-input100">Output Filename</span>
+					<input class="input100" type="text" name="phone" placeholder="steve.out">
 				</div>
 
 				<div class="wrap-input100 input100-select bg1">
@@ -60,8 +55,12 @@
 						<select class="js-select2" name="service">
 							<option>blastN</option>
 							<option>blastP</option>
-							<option>UI/UX Design</option>
-							<option>Online Services</option>
+							<option>blastx</option>
+							<option>tblastn</option>
+							<option>tblastx</option>
+							<option>psiblast</option>
+							<option>deltablast</option>
+							<option>rpsblast</option>
 						</select>
 						<div class="dropDownSelect2"></div>
 					</div>
@@ -70,9 +69,33 @@
 					<span class="label-input100">Input Format</span>
 					<div>
 						<select class="js-select2" name="service">
-							<option>Please chooses</option>
-							<option>eCommerce Bussiness</option>
+							<option>FASTA</option>
+							<option>FASTQ</option>
 							<option>UI/UX Design</option>
+							<option>Online Services</option>
+						</select>
+						<div class="dropDownSelect2"></div>
+					</div>
+				</div>
+				<div class="wrap-input100 input100-select bg1">
+					<span class="label-input100">Output Format</span>
+					<div>
+						<select class="js-select2" name="service">
+							<option>FASTA</option>
+							<option>FASTQ</option>
+							<option>UI/UX Design</option>
+							<option>Online Services</option>
+						</select>
+						<div class="dropDownSelect2"></div>
+					</div>
+				</div>
+				<div class="wrap-input100 input100-select bg1">
+					<span class="label-input100">Choose a database</span>
+					<div>
+						<select class="js-select2" name="service">
+							<option>DB 1</option>
+							<option>DB 2</option>
+							<option>DB 3</option>
 							<option>Online Services</option>
 						</select>
 						<div class="dropDownSelect2"></div>
@@ -121,8 +144,8 @@
 				</div>
 
 				<div class="wrap-input100 validate-input bg0 rs1-alert-validate" data-validate = "Please Type Your Message">
-					<span class="label-input100">Message</span>
-					<textarea class="input100" name="message" placeholder="Your message here..."></textarea>
+					<span class="label-input100">Upload your query file</span>
+					<input type="file">
 				</div>
 
 				<div class="container-contact100-form-btn">
