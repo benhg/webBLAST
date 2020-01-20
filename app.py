@@ -5,6 +5,7 @@ import json
 import urllib.request
 from urllib.error import HTTPError, URLError
 from socket import timeout
+import ast
 
 import parsl
 from parsl.app.app import python_app, bash_app
@@ -16,7 +17,7 @@ app.config["admin_email"] = "benjamin.glick@ge.com"
 app.secret_key = b'\x9b4\xf8%\x1b\x90\x0e[?\xbd\x14\x7fS\x1c\xe7Y\xd8\x1c\xf9\xda\xb0K=\xba'
 # I will obviously change this secret key before we go live
 
-parsl.set_stream_logger()
+#parsl.set_stream_logger()
 parsl.load(config)
 
 
@@ -37,10 +38,19 @@ def blast_query():
     """BLAST query page"""
     return render_template("blast.html")
 
-@app.route("/run_blast")
+@app.route("/run_blast", methods=["POST"])
 def run_blast():
-    run_blastn()
+    #run_blastn()
+    form_data = process_form_data(request.form["data"])
+    print(form_data)
     return "aaaaaaa"
+
+def process_form_data(data):
+    data = ast.literal_eval(data)
+    ret = {}
+    for row in data:
+        ret[row["name"]] = row["value"]
+    return ret
 
 @app.route("/check_results", methods=["GET"])
 def check_results():

@@ -34,7 +34,7 @@
 
 	<div class="container-contact100">
 		<div class="wrap-contact100">
-			<form class="contact100-form validate-form">
+			<form class="contact100-form validate-form" id="blast-form">
 				<span class="contact100-form-title">
 					LC WebBlast
 				</span>
@@ -46,13 +46,13 @@
 
 				<div class="wrap-input100 bg1 rs1-wrap-input100">
 					<span class="label-input100">Output Filename</span>
-					<input class="input100" type="text" name="phone" placeholder="steve.out">
+					<input class="input100" type="text" name="output-filename" placeholder="steve.out">
 				</div>
 
 				<div class="wrap-input100 input100-select bg1">
 					<span class="label-input100">BLAST type</span>
 					<div>
-						<select class="js-select2" name="service">
+						<select class="js-select2" name="blast_type">
 							<option>blastn</option>
 							<option>blastp</option>
 							<option>blastx</option>
@@ -68,7 +68,7 @@
 				<div class="wrap-input100 input100-select bg1">
 					<span class="label-input100">Input Format</span>
 					<div>
-						<select class="js-select2" name="service">
+						<select class="js-select2" name="input-type">
 							<option>FASTA</option>
 							<option>FASTQ</option>
 							<option>UI/UX Design</option>
@@ -80,7 +80,7 @@
 				<div class="wrap-input100 input100-select bg1">
 					<span class="label-input100">Output Format</span>
 					<div>
-						<select class="js-select2" name="service">
+						<select class="js-select2" name="output-type">
 							<option>FASTA</option>
 							<option>FASTQ</option>
 							<option>UI/UX Design</option>
@@ -92,7 +92,7 @@
 				<div class="wrap-input100 input100-select bg1">
 					<span class="label-input100">Choose a database</span>
 					<div>
-						<select class="js-select2" name="service">
+						<select class="js-select2" name="database">
 							<option>DB 1</option>
 							<option>DB 2</option>
 							<option>DB 3</option>
@@ -108,7 +108,7 @@
 				</div>
 
 				<div class="container-contact100-form-btn">
-					<button class="contact100-form-btn">
+					<button class="contact100-form-btn" id="submit-button">
 						<span>
 							Submit
 							<i class="fa fa-long-arrow-right m-l-7" aria-hidden="true"></i>
