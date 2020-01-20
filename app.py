@@ -37,9 +37,10 @@ def blast_query():
     """BLAST query page"""
     return render_template("blast.html")
 
-@app.route("/run_blast", methods=["POST"])
+@app.route("/run_blast")
 def run_blast():
-    pass
+    run_blastn()
+    return "aaaaaaa"
 
 @app.route("/check_results", methods=["GET"])
 def check_results():
