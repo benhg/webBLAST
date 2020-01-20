@@ -1,0 +1,2 @@
+blastn: 2.10.0+
+ Package: blast 2.10.0, build Jan  8 2020 22:00:09

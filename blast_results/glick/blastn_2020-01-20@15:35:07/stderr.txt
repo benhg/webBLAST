@@ -1,0 +1,3 @@
+--> executable follows <--
+blastn -version
+--> end executable <--
