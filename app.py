@@ -6,11 +6,18 @@ import urllib.request
 from urllib.error import HTTPError, URLError
 from socket import timeout
 
+import parsl
+from parsl.app.app import python_app, bash_app
+from parsl.configs.local_threads import config
+
 app = Flask(__name__)
 
 app.config["admin_email"] = "benjamin.glick@ge.com"
 app.secret_key = b'\x9b4\xf8%\x1b\x90\x0e[?\xbd\x14\x7fS\x1c\xe7Y\xd8\x1c\xf9\xda\xb0K=\xba'
 # I will obviously change this secret key before we go live
+
+parsl.set_stream_logger()
+parsl.load(config)
 
 
 @app.route('/')
@@ -37,6 +44,10 @@ def run_blast():
 @app.route("/check_results", methods=["GET"])
 def check_results():
     pass
+
+@bash_app
+def run_blastn(stdout='echo-hello.stdout', stderr='echo-hello.stderr'):
+    return 'blastn --version'
 
 
 
