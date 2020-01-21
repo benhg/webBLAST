@@ -1,0 +1,8 @@
+blast_dbs/uniprot_sprot filter=lfs diff=lfs merge=lfs -text
+blast_dbs/uniprot_sprot/uniprot_sprot.psq filter=lfs diff=lfs merge=lfs -text
+blast_dbs/uniprot_sprot/uniprot_sprot.ptf filter=lfs diff=lfs merge=lfs -text
+blast_dbs/uniprot_sprot/uniprot_sprot.pto filter=lfs diff=lfs merge=lfs -text
+blast_dbs/uniprot_sprot/uniprot_sprot.pdb filter=lfs diff=lfs merge=lfs -text
+blast_dbs/uniprot_sprot/uniprot_sprot.phr filter=lfs diff=lfs merge=lfs -text
+blast_dbs/uniprot_sprot/uniprot_sprot.pin filter=lfs diff=lfs merge=lfs -text
+blast_dbs/uniprot_sprot/uniprot_sprot.pot filter=lfs diff=lfs merge=lfs -text
