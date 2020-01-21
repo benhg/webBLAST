@@ -85,8 +85,9 @@ def get_databases():
 
 
 @bash_app
-def run_blastn(stdout='blastn.stdout', stderr='blastn.stderr'):
-    return 'blastn -version'
+def run_blastn(query_file, db, out_file_name, out_format=7,
+               stdout='blastp.stdout', stderr='blastp.stderr'):
+    return f'blastn -query {query_file} -db {db} -out {out_file_name} {out_format}'
 
 
 @bash_app
