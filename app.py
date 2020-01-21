@@ -57,7 +57,7 @@ def run_blast():
 
     # run the appropriate BLAST
     blast_fu = blast_translate_table[form_data["blast_type"]]("query_file",
-                                                              f"{db}/{db}.faa",
+                                                              f"blast_dbs/{db}",
                                                               out_file,
                                                               out_format,
                                                               stdout=f"{directory_name}/stdout.txt",
