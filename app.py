@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, abort, send_file
 import requests
 
 import json
@@ -18,7 +18,7 @@ app.config["admin_email"] = "benjamin.glick@ge.com"
 app.secret_key = b'\x9b4\xf8%\x1b\x90\x0e[?\xbd\x14\x7fS\x1c\xe7Y\xd8\x1c\xf9\xda\xb0K=\xba'
 # I will obviously change this secret key before we go live
 
-parsl.set_stream_logger()
+#parsl.set_stream_logger()
 parsl.load(config)
 
 
@@ -39,7 +39,6 @@ def hello_world():
 def blast_query():
     """BLAST query page"""
     blast_dbs = os.listdir("blast_dbs")
-    print(blast_dbs)
     return render_template("blast.html", dbs=blast_dbs)
 
 
@@ -76,10 +75,25 @@ def process_form_data(data):
     return ret
 
 
-@app.route("/check_results", methods=["GET"])
-def check_results():
-    pass
 
+@app.route('/check_results')
+def check_results():
+    item_list = os.listdir("blast_results")
+    print(item_list)
+    return render_template('browse.html', item_list=item_list)
+
+@app.route('/check_results/<path:url_file_path>')
+def check_results_browse(url_file_path):
+    nested_file_path = os.path.join("blast_results", url_file_path)
+    if os.path.isdir(nested_file_path):
+        item_list = os.listdir(nested_file_path)
+        fileProperties = {"filepath": nested_file_path}
+        if not url_file_path.startswith("/"):
+            url_file_path = "/" + url_file_path
+        return render_template('browse.html', url_file_path=url_file_path, item_list=item_list)
+    if os.path.isfile(nested_file_path):
+        return send_file(nested_file_path)
+    return abort(500)
 
 def get_databases():
     """All databases should be stored in a directory of their name in this directory"""
