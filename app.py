@@ -79,7 +79,6 @@ def process_form_data(data):
 @app.route('/check_results')
 def check_results():
     item_list = os.listdir("blast_results")
-    print(item_list)
     return render_template('browse.html', item_list=item_list)
 
 @app.route('/check_results/<path:url_file_path>')
