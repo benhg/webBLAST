@@ -86,6 +86,8 @@ def check_results_browse(url_file_path):
     nested_file_path = os.path.join("blast_results", url_file_path)
     if os.path.isdir(nested_file_path):
         item_list = os.listdir(nested_file_path)
+        if len(item_list) == 0:
+            item_list = ["No Items Found"]
         fileProperties = {"filepath": nested_file_path}
         if not url_file_path.startswith("/"):
             url_file_path = "/" + url_file_path
