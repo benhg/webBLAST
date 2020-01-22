@@ -34,4 +34,4 @@ DESCRIPTION
 Use '-help' to print detailed descriptions of command line arguments
 ========================================================================
 
-Error:  (CArgException::eSynopsis) Too many positional arguments (1), the offending value: pairwise
+Error:  (CArgException::eSynopsis) Too many positional arguments (1), the offending value: 0

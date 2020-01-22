@@ -34,7 +34,7 @@
 
 	<div class="container-contact100">
 		<div class="wrap-contact100">
-			<form class="contact100-form validate-form" id="blast-form">
+			<form class="contact100-form validate-form" id="blast-form" method="post" enctype="multipart/form-data">
 				<span class="contact100-form-title">
 					LC WebBlast
 				</span>
@@ -111,16 +111,13 @@
 
 				<div class="wrap-input100 validate-input bg0 rs1-alert-validate" data-validate = "Please Type Your Message">
 					<span class="label-input100">Upload your query file</span>
-					<input type="file">
+					<input type="file" name="file">
 				</div>
 
 				<div class="container-contact100-form-btn">
-					<button class="contact100-form-btn" id="submit-button">
-						<span>
-							Submit
-							<i class="fa fa-long-arrow-right m-l-7" aria-hidden="true"></i>
-						</span>
-					</button>
+					<input type="submit" class="contact100-form-btn" id="submit-button">
+						
+					</input>
 				</div>
 			</form>
 		</div>

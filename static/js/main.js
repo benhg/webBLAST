@@ -1,26 +1,24 @@
 (function($) {
 
 
-    $('#submit-button').click(function() {
-        // Make an ajax request to run a blast query:
-        var form_info = $('#blast-form').serializeArray();
 
-jQuery.ajax({
-          url: "http://localhost:8000/run_blast",
-          type: "POST",
-          data: "data="+JSON.stringify(form_info),
-          dataType: "json",
-          beforeSend: function(x) {
-            if (x && x.overrideMimeType) {
-              x.overrideMimeType("application/j-son;charset=UTF-8");
-            }
-          },
-          success: function(result) {
-           console.log(result);
-          }
+$("#blast-form").submit(function(e) {
+    e.preventDefault();    
+    var formData = new FormData(this);
+
+    $.ajax({
+        url:"http://localhost:8000/run_blast",
+        enctype: 'multipart/form-data',
+        type: 'POST',
+        data: formData,
+        success: function (data) {
+            alert(data)
+        },
+        cache: false,
+        contentType: false,
+        processData: false
+    });
 });
-
-    })
 
 
     /*==================================================================

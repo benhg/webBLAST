@@ -1,0 +1,1934 @@
+[473732.241] Initializing Lua 5.1.4
+[473784.137] OptionsMenu: Max resolution: 3360 x 2100
+[473784.140] OptionsMenu: Max resolution: 3360 x 2100
+[473784.263] InstalledPanel: Refreshing Mods
+[473784.263] InstalledPanel: GetModBrowserListings()
+[473784.263] InstalledPanel: Refreshing Mods
+[473784.263] InstalledPanel: GetModBrowserListings()
+[473795.903] Lobby: Sorting ServerName
+[473795.906] Lobby: Sorting ServerName
+[473795.906] Lobby: Sorting ServerName
+[473795.906] Lobby: Sorting ServerName
+[473795.910] Lobby: Sorting ServerName
+[473795.910] Lobby: Sorting ServerName
+[473795.910] Lobby: Sorting ServerName
+[473795.910] Lobby: Sorting ServerName
+[473795.910] Lobby: Sorting ServerName
+[473795.910] Lobby: Sorting ServerName
+[473795.910] Lobby: Sorting ServerName
+[473795.913] Lobby: Sorting ServerName
+[473795.913] Lobby: Sorting ServerName
+[473795.913] Lobby: Sorting ServerName
+[473795.913] Lobby: Sorting ServerName
+[473795.913] Lobby: Sorting ServerName
+[473795.913] Lobby: Sorting ServerName
+[473795.913] Lobby: Sorting ServerName
+[473795.913] Lobby: Sorting ServerName
+[473795.913] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.915] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.917] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.919] Lobby: Sorting ServerName
+[473795.920] Lobby: Sorting ServerName
+[473795.920] Lobby: Sorting ServerName
+[473795.920] Lobby: Sorting ServerName
+[473795.920] Lobby: Sorting ServerName
+[473795.924] Lobby: Sorting ServerName
+[473795.924] Lobby: Sorting ServerName
+[473795.924] Lobby: Sorting ServerName
+[473795.924] Lobby: Sorting ServerName
+[473795.924] Lobby: Sorting ServerName
+[473795.924] Lobby: Sorting ServerName
+[473795.924] Lobby: Sorting ServerName
+[473795.924] Lobby: Sorting ServerName
+[473795.924] Lobby: Sorting ServerName
+[473795.924] Lobby: Sorting ServerName
+[473795.924] Lobby: Sorting ServerName
+[473795.924] Lobby: Sorting ServerName
+[473795.925] Lobby: Sorting ServerName
+[473795.925] Lobby: Sorting ServerName
+[473795.925] Lobby: Sorting ServerName
+[473795.925] Lobby: Sorting ServerName
+[473795.925] Lobby: Sorting ServerName
+[473795.925] Lobby: Sorting ServerName
+[473795.925] Lobby: Sorting ServerName
+[473795.925] Lobby: Sorting ServerName
+[473795.925] Lobby: Sorting ServerName
+[473795.925] Lobby: Sorting ServerName
+[473795.925] Lobby: Sorting ServerName
+[473795.925] Lobby: Sorting ServerName
+[473795.925] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.927] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.929] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.932] Lobby: Sorting ServerName
+[473795.934] Lobby: Sorting ServerName
+[473795.934] Lobby: Sorting ServerName
+[473795.934] Lobby: Sorting ServerName
+[473795.934] Lobby: Sorting ServerName
+[473795.934] Lobby: Sorting ServerName
+[473795.934] Lobby: Sorting ServerName
+[473795.934] Lobby: Sorting ServerName
+[473795.934] Lobby: Sorting ServerName
+[473795.934] Lobby: Sorting ServerName
+[473795.934] Lobby: Sorting ServerName
+[473795.934] Lobby: Sorting ServerName
+[473795.934] Lobby: Sorting ServerName
+[473795.934] Lobby: Sorting ServerName
+[473795.934] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.935] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.937] Lobby: Sorting ServerName
+[473795.938] Lobby: Sorting ServerName
+[473795.938] Lobby: Sorting ServerName
+[473795.938] Lobby: Sorting ServerName
+[473795.938] Lobby: Sorting ServerName
+[473795.938] Lobby: Sorting ServerName
+[473795.938] Lobby: Sorting ServerName
+[473795.938] Lobby: Sorting ServerName
+[473795.938] Lobby: Sorting ServerName
+[473795.938] Lobby: Sorting ServerName
+[473795.938] Lobby: Sorting ServerName
+[473795.938] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.940] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.943] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.946] Lobby: Sorting ServerName
+[473795.948] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.949] Lobby: Sorting ServerName
+[473795.951] Lobby: Sorting ServerName
+[473795.951] Lobby: Sorting ServerName
+[473795.951] Lobby: Sorting ServerName
+[473795.951] Lobby: Sorting ServerName
+[473795.951] Lobby: Sorting ServerName
+[473795.951] Lobby: Sorting ServerName
+[473795.951] Lobby: Sorting ServerName
+[473795.951] Lobby: Sorting ServerName
+[473795.951] Lobby: Sorting ServerName
+[473795.951] Lobby: Sorting ServerName
+[473795.951] Lobby: Sorting ServerName
+[473795.951] Lobby: Sorting ServerName
+[473795.951] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.952] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[473795.955] Lobby: Sorting ServerName
+[474516.793] Map Script: Generating Map
+[474516.793] Map Script: Generating Plot Types (Lua Continents) ...
+[474516.809] Map Script: Setting Plot Types (MapGenerator.Lua)
+[474516.901] Map Script: Setting coasts and oceans (MapGenerator.Lua)
+[474516.909] Map Script: Expanding coasts (MapGenerator.Lua)
+[474516.918] Map Script: Generating Terrain (Lua Continents) ...
+[474516.932] Map Script: Setting Terrain Types (MapGenerator.Lua)
+[474516.960] Map Script: Map Generation - Adding Rivers
+[474516.989] Map Script: Map Generation - Adding Lakes
+[474516.993] Map Script: 5 lakes added
+[474516.993] Map Script: Adding Features (Lua Continents) ...
+[474517.097] Map Script: Creating start plot database.
+[474517.125] Map Script: Dividing the map in to Regions.
+[474517.125] Map Script: Map Generation - Dividing the map in to Regions
+[474517.127] Map Script: -
+[474517.127] Map Script: Civs:	6
+[474517.127] Map Script: City States:	16
+[474517.136] Map Script: * * * * * * * * * *
+[474517.136] Map Script: Area ID 581667 has fertility of 110
+[474517.136] Map Script: Area ID 565281 has fertility of 16
+[474517.136] Map Script: Area ID 598053 has fertility of 13
+[474517.136] Map Script: Area ID 507930 has fertility of 23
+[474517.136] Map Script: Area ID 548895 has fertility of 605
+[474517.136] Map Script: Area ID 532509 has fertility of 11
+[474517.136] Map Script: Area ID 499737 has fertility of 4
+[474517.136] Map Script: Area ID 614439 has fertility of 5
+[474517.136] Map Script: Area ID 491544 has fertility of 886
+[474517.136] Map Script: Area ID 409614 has fertility of 1994
+[474517.136] Map Script: Area ID 557088 has fertility of 354
+[474517.136] Map Script: Area ID 540702 has fertility of 6
+[474517.137] Map Script: Area ID 729141 has fertility of -1
+[474517.137] Map Script: Area ID 622632 has fertility of 5
+[474517.137] Map Script: * * * * * * * * * *
+[474517.137] Map Script: Interim Table ID 1 has fertility of -1
+[474517.137] Map Script: Interim Table ID 2 has fertility of 4
+[474517.137] Map Script: Interim Table ID 3 has fertility of 5
+[474517.137] Map Script: Interim Table ID 4 has fertility of 5
+[474517.137] Map Script: Interim Table ID 5 has fertility of 6
+[474517.137] Map Script: Interim Table ID 6 has fertility of 11
+[474517.137] Map Script: Interim Table ID 7 has fertility of 13
+[474517.137] Map Script: Interim Table ID 8 has fertility of 16
+[474517.137] Map Script: Interim Table ID 9 has fertility of 23
+[474517.137] Map Script: Interim Table ID 10 has fertility of 110
+[474517.137] Map Script: Interim Table ID 11 has fertility of 354
+[474517.137] Map Script: Interim Table ID 12 has fertility of 605
+[474517.137] Map Script: Interim Table ID 13 has fertility of 886
+[474517.137] Map Script: Interim Table ID 14 has fertility of 1994
+[474517.137] Map Script: * * * * * * * * * *
+[474517.137] Map Script: -
+[474517.137] Map Script: --- Continental Division, Initial Readout ---
+[474517.137] Map Script: -
+[474517.137] Map Script: - Global Fertility:	4031
+[474517.137] Map Script: - Total Land Plots:	1035
+[474517.137] Map Script: - Total Areas:	14
+[474517.137] Map Script: - Relevant Areas:	6
+[474517.137] Map Script: -
+[474517.137] Map Script: * * * * * * * * * *
+[474517.137] Map Script: Area ID 409614 has fertility of 1994
+[474517.137] Map Script: Area ID 491544 has fertility of 886
+[474517.137] Map Script: Area ID 548895 has fertility of 605
+[474517.137] Map Script: Area ID 557088 has fertility of 354
+[474517.137] Map Script: Area ID 581667 has fertility of 110
+[474517.137] Map Script: Area ID 507930 has fertility of 23
+[474517.137] Map Script: * * * * * * * * * *
+[474517.137] Map Script: - - Searching landmasses in order to place Civ #	1
+[474517.137] Map Script: -
+[474517.137] Map Script: - Found new candidate landmass with Area ID#:	409614	 with fertility of 	1994
+[474517.137] Map Script: Civ #	1	has been assigned to Area#	409614
+[474517.137] Map Script: -
+[474517.137] Map Script: - - Searching landmasses in order to place Civ #	2
+[474517.137] Map Script: -
+[474517.137] Map Script: - Found new candidate landmass with Area ID#:	409614	 with fertility of 	997
+[474517.137] Map Script: Civ #	2	has been assigned to Area#	409614
+[474517.137] Map Script: -
+[474517.137] Map Script: - - Searching landmasses in order to place Civ #	3
+[474517.137] Map Script: -
+[474517.137] Map Script: - Found new candidate landmass with Area ID#:	409614	 with fertility of 	664.66666666667
+[474517.137] Map Script: - Found new candidate landmass with Area ID#:	491544	 with fertility of 	886
+[474517.137] Map Script: Civ #	3	has been assigned to Area#	491544
+[474517.137] Map Script: -
+[474517.137] Map Script: - - Searching landmasses in order to place Civ #	4
+[474517.137] Map Script: -
+[474517.137] Map Script: - Found new candidate landmass with Area ID#:	409614	 with fertility of 	664.66666666667
+[474517.137] Map Script: Civ #	4	has been assigned to Area#	409614
+[474517.137] Map Script: -
+[474517.137] Map Script: - - Searching landmasses in order to place Civ #	5
+[474517.137] Map Script: -
+[474517.138] Map Script: - Found new candidate landmass with Area ID#:	409614	 with fertility of 	498.5
+[474517.138] Map Script: - Found new candidate landmass with Area ID#:	548895	 with fertility of 	605
+[474517.138] Map Script: Civ #	5	has been assigned to Area#	548895
+[474517.138] Map Script: -
+[474517.138] Map Script: - - Searching landmasses in order to place Civ #	6
+[474517.138] Map Script: -
+[474517.138] Map Script: - Found new candidate landmass with Area ID#:	409614	 with fertility of 	498.5
+[474517.138] Map Script: Civ #	6	has been assigned to Area#	409614
+[474517.138] Map Script: -
+[474517.138] Map Script: -
+[474517.138] Map Script: --- End of Initial Readout ---
+[474517.138] Map Script: -
+[474517.138] Map Script: *** Number of Civs per Landmass - Table Readout ***
+[474517.138] Map Script: --------------------------------------------------
+[474517.138] Map Script: Table printout for table ID:	table: 0x1a593420
+[474517.138] Map Script: Table index:	1	Table entry:	4
+[474517.138] Map Script: Table index:	2	Table entry:	1
+[474517.138] Map Script: Table index:	3	Table entry:	1
+[474517.138] Map Script: Table index:	4	Table entry:	0
+[474517.138] Map Script: Table index:	5	Table entry:	0
+[474517.138] Map Script: Table index:	6	Table entry:	0
+[474517.138] Map Script: - - - - - - - - - - - - - - - - - - - - - - - - - -
+[474517.138] Map Script: --- End of Civs per Landmass readout ***
+[474517.138] Map Script: -
+[474517.138] Map Script: -
+[474517.145] Map Script: -
+[474517.145] Map Script: - Region #: 	1
+[474517.145] Map Script: - Civs on this landmass: 	4
+[474517.145] Map Script: - Area ID#: 	409614
+[474517.145] Map Script: - Fertility: 	1994
+[474517.145] Map Script: - Plot Count: 	1462
+[474517.145] Map Script: -
+[474517.145] Map Script: DivideIntoRegions: Divide in to Halves selected.
+[474517.146] Map Script: Dividing along horizontal line between rows: 	31	-	32
+[474517.146] Map Script: -
+[474517.146] Map Script: Removed Dead Rows, West: 	3	 East: 	0
+[474517.146] Map Script: Removed Dead Rows, South: 	0	 North: 	0
+[474517.146] Map Script: -
+[474517.146] Map Script: Incoming values: 	0	4	34	28
+[474517.146] Map Script: Outgoing values: 	3	4	31	28
+[474517.146] Map Script: -
+[474517.147] Map Script: Size of incoming fertility table: 	952
+[474517.147] Map Script: Size of outgoing fertility table: 	868
+[474517.147] Map Script: -
+[474517.147] Map Script: Removed Dead Rows, West: 	0	 East: 	2
+[474517.147] Map Script: Removed Dead Rows, South: 	0	 North: 	0
+[474517.147] Map Script: -
+[474517.147] Map Script: Incoming values: 	0	32	34	15
+[474517.147] Map Script: Outgoing values: 	0	32	32	15
+[474517.147] Map Script: -
+[474517.147] Map Script: Size of incoming fertility table: 	510
+[474517.147] Map Script: Size of outgoing fertility table: 	480
+[474517.147] Map Script: DivideIntoRegions: Divide in to Halves selected.
+[474517.147] Map Script: Dividing along vertical line between columns: 	20	-	21
+[474517.147] Map Script: -
+[474517.148] Map Script: Removed Dead Rows, West: 	0	 East: 	0
+[474517.148] Map Script: Removed Dead Rows, South: 	1	 North: 	0
+[474517.148] Map Script: -
+[474517.148] Map Script: Incoming values: 	3	4	18	28
+[474517.148] Map Script: Outgoing values: 	3	5	18	27
+[474517.148] Map Script: -
+[474517.148] Map Script: Size of incoming fertility table: 	504
+[474517.148] Map Script: Size of outgoing fertility table: 	486
+[474517.148] Map Script: -
+[474517.148] Map Script: ---------------------------------------------
+[474517.148] Map Script: Defined location of Start Region #	1
+[474517.148] Map Script: ---------------------------------------------
+[474517.148] Map Script: -
+[474517.148] Map Script: -
+[474517.148] Map Script: ---------------------------------------------
+[474517.148] Map Script: Defined location of Start Region #	2
+[474517.148] Map Script: ---------------------------------------------
+[474517.148] Map Script: -
+[474517.148] Map Script: DivideIntoRegions: Divide in to Halves selected.
+[474517.148] Map Script: Dividing along vertical line between columns: 	16	-	17
+[474517.148] Map Script: -
+[474517.148] Map Script: Removed Dead Rows, West: 	0	 East: 	0
+[474517.148] Map Script: Removed Dead Rows, South: 	0	 North: 	1
+[474517.148] Map Script: -
+[474517.148] Map Script: Incoming values: 	17	32	15	15
+[474517.148] Map Script: Outgoing values: 	17	32	15	14
+[474517.148] Map Script: -
+[474517.148] Map Script: Size of incoming fertility table: 	225
+[474517.148] Map Script: Size of outgoing fertility table: 	210
+[474517.148] Map Script: -
+[474517.148] Map Script: ---------------------------------------------
+[474517.149] Map Script: Defined location of Start Region #	3
+[474517.149] Map Script: ---------------------------------------------
+[474517.149] Map Script: -
+[474517.149] Map Script: -
+[474517.149] Map Script: ---------------------------------------------
+[474517.149] Map Script: Defined location of Start Region #	4
+[474517.149] Map Script: ---------------------------------------------
+[474517.149] Map Script: -
+[474517.155] Map Script: -
+[474517.155] Map Script: - Region #: 	2
+[474517.155] Map Script: - Civs on this landmass: 	1
+[474517.155] Map Script: - Area ID#: 	491544
+[474517.155] Map Script: - Fertility: 	886
+[474517.155] Map Script: - Plot Count: 	374
+[474517.155] Map Script: -
+[474517.155] Map Script: -
+[474517.155] Map Script: ---------------------------------------------
+[474517.155] Map Script: Defined location of Start Region #	5
+[474517.155] Map Script: ---------------------------------------------
+[474517.155] Map Script: -
+[474517.161] Map Script: -
+[474517.161] Map Script: - Region #: 	3
+[474517.161] Map Script: - Civs on this landmass: 	1
+[474517.161] Map Script: - Area ID#: 	548895
+[474517.161] Map Script: - Fertility: 	605
+[474517.161] Map Script: - Plot Count: 	322
+[474517.161] Map Script: -
+[474517.161] Map Script: -
+[474517.161] Map Script: ---------------------------------------------
+[474517.161] Map Script: Defined location of Start Region #	6
+[474517.161] Map Script: ---------------------------------------------
+[474517.162] Map Script: -
+[474517.162] Map Script: -
+[474517.162] Map Script: Data for Start Region #	1
+[474517.162] Map Script: WestX:  	3
+[474517.162] Map Script: SouthY: 	5
+[474517.162] Map Script: Width:  	18
+[474517.162] Map Script: Height: 	27
+[474517.162] Map Script: AreaID: 	409614
+[474517.162] Map Script: Fertility:	547
+[474517.162] Map Script: Plots:  	486
+[474517.162] Map Script: Fert/Plot:	1.1255144032922
+[474517.162] Map Script: -
+[474517.162] Map Script: -
+[474517.162] Map Script: Data for Start Region #	2
+[474517.162] Map Script: WestX:  	21
+[474517.162] Map Script: SouthY: 	4
+[474517.162] Map Script: Width:  	13
+[474517.162] Map Script: Height: 	28
+[474517.162] Map Script: AreaID: 	409614
+[474517.162] Map Script: Fertility:	507
+[474517.162] Map Script: Plots:  	364
+[474517.162] Map Script: Fert/Plot:	1.3928571428571
+[474517.162] Map Script: -
+[474517.162] Map Script: -
+[474517.162] Map Script: Data for Start Region #	3
+[474517.162] Map Script: WestX:  	0
+[474517.162] Map Script: SouthY: 	32
+[474517.162] Map Script: Width:  	17
+[474517.162] Map Script: Height: 	15
+[474517.162] Map Script: AreaID: 	409614
+[474517.162] Map Script: Fertility:	498
+[474517.162] Map Script: Plots:  	255
+[474517.162] Map Script: Fert/Plot:	1.9529411764706
+[474517.162] Map Script: -
+[474517.162] Map Script: -
+[474517.162] Map Script: Data for Start Region #	4
+[474517.162] Map Script: WestX:  	17
+[474517.162] Map Script: SouthY: 	32
+[474517.162] Map Script: Width:  	15
+[474517.162] Map Script: Height: 	14
+[474517.162] Map Script: AreaID: 	409614
+[474517.162] Map Script: Fertility:	442
+[474517.162] Map Script: Plots:  	210
+[474517.162] Map Script: Fert/Plot:	2.1047619047619
+[474517.162] Map Script: -
+[474517.162] Map Script: -
+[474517.162] Map Script: Data for Start Region #	5
+[474517.162] Map Script: WestX:  	56
+[474517.162] Map Script: SouthY: 	7
+[474517.162] Map Script: Width:  	22
+[474517.162] Map Script: Height: 	17
+[474517.162] Map Script: AreaID: 	491544
+[474517.162] Map Script: Fertility:	886
+[474517.162] Map Script: Plots:  	374
+[474517.162] Map Script: Fert/Plot:	2.3689839572193
+[474517.162] Map Script: -
+[474517.162] Map Script: -
+[474517.162] Map Script: Data for Start Region #	6
+[474517.162] Map Script: WestX:  	42
+[474517.162] Map Script: SouthY: 	26
+[474517.162] Map Script: Width:  	14
+[474517.163] Map Script: Height: 	23
+[474517.163] Map Script: AreaID: 	548895
+[474517.163] Map Script: Fertility:	605
+[474517.163] Map Script: Plots:  	322
+[474517.163] Map Script: Fert/Plot:	1.8788819875776
+[474517.163] Map Script: -
+[474517.163] Map Script: Choosing start locations for civilizations.
+[474517.163] Map Script: Map Generation - Choosing Start Locations for Civilizations
+[474517.181] Map Script: Normalizing start locations and assigning them to Players.
+[474517.182] Map Script: Player	0	of Civ Type	CIVILIZATION_PERSIA
+[474517.183] Map Script: Player	1	of Civ Type	CIVILIZATION_ZULU
+[474517.183] Map Script: Player	2	of Civ Type	CIVILIZATION_HUNS
+[474517.184] Map Script: Player	3	of Civ Type	CIVILIZATION_IROQUOIS
+[474517.184] Map Script: Player	4	of Civ Type	CIVILIZATION_AUSTRIA
+[474517.185] Map Script: Player	5	of Civ Type	CIVILIZATION_AZTEC
+[474517.185] Map Script: Civs with Coastal Bias:	0
+[474517.185] Map Script: Civs with River Bias:	0
+[474517.185] Map Script: Civs with Region Priority:	3
+[474517.185] Map Script: Civs with Region Avoid:	2
+[474517.185] Map Script: -
+[474517.185] Map Script: Placing Natural Wonders.
+[474517.670] Map Script: -
+[474517.670] Map Script: -
+[474517.670] Map Script: --- Number of Candidate Plots on the map for Natural Wonders ---
+[474517.670] Map Script: -
+[474517.670] Map Script: -	43	candidates for	FEATURE_CRATER
+[474517.670] Map Script: -	37	candidates for	FEATURE_FUJI
+[474517.670] Map Script: -	31	candidates for	FEATURE_MESA
+[474517.670] Map Script: -	148	candidates for	FEATURE_REEF
+[474517.670] Map Script: -	1672	candidates for	FEATURE_VOLCANO
+[474517.670] Map Script: -	183	candidates for	FEATURE_GIBRALTAR
+[474517.670] Map Script: -	35	candidates for	FEATURE_GEYSER
+[474517.670] Map Script: -	215	candidates for	FEATURE_FOUNTAIN_YOUTH
+[474517.670] Map Script: -	150	candidates for	FEATURE_POTOSI
+[474517.670] Map Script: -	34	candidates for	FEATURE_EL_DORADO
+[474517.670] Map Script: -	132	candidates for	FEATURE_SRI_PADA
+[474517.670] Map Script: -	26	candidates for	FEATURE_MT_SINAI
+[474517.670] Map Script: -	91	candidates for	FEATURE_MT_KAILASH
+[474517.670] Map Script: -	24	candidates for	FEATURE_ULURU
+[474517.670] Map Script: -	215	candidates for	FEATURE_LAKE_VICTORIA
+[474517.670] Map Script: -	40	candidates for	FEATURE_KILIMANJARO
+[474517.670] Map Script: -	213	candidates for	FEATURE_SOLOMONS_MINES
+[474517.670] Map Script: -
+[474517.670] Map Script: --- End of candidates readout for Natural Wonders ---
+[474517.670] Map Script: -
+[474517.693] Map Script: -- Placed all Natural Wonders --
+[474517.693] Map Script: -
+[474517.693] Map Script: -
+[474517.693] Map Script: Placing Resources and City States.
+[474517.693] Map Script: Map Generation - Assigning Luxury Resource Distribution
+[474517.693] Map Script: -
+[474517.693] Map Script: Region#	2	 of type 	2	 has been assigned Luxury ID#	17
+[474517.693] Map Script: -
+[474517.693] Map Script: Region#	3	 of type 	4	 has been assigned Luxury ID#	31
+[474517.693] Map Script: -
+[474517.693] Map Script: Region#	4	 of type 	4	 has been assigned Luxury ID#	27
+[474517.693] Map Script: -
+[474517.694] Map Script: Region#	6	 of type 	7	 has been assigned Luxury ID#	30
+[474517.694] Map Script: -
+[474517.694] Map Script: Region#	5	 of type 	8	 has been assigned Luxury ID#	26
+[474517.694] Map Script: -
+[474517.694] Map Script: Region#	1	 of type 	8	 has been assigned Luxury ID#	13
+[474517.694] Map Script: Luxury ID#	13	rejected by City States as already belonging to Regions.
+[474517.694] Map Script: Luxury ID#	17	rejected by City States as already belonging to Regions.
+[474517.694] Map Script: Luxury ID#	26	rejected by City States as already belonging to Regions.
+[474517.694] Map Script: Luxury ID#	27	rejected by City States as already belonging to Regions.
+[474517.694] Map Script: Luxury ID#	30	rejected by City States as already belonging to Regions.
+[474517.694] Map Script: Luxury ID#	31	rejected by City States as already belonging to Regions.
+[474517.694] Map Script: --- Luxury Assignment Table ---
+[474517.694] Map Script: -
+[474517.694] Map Script: - - Assigned to Regions - -
+[474517.694] Map Script: Region#	2	has Luxury type	17
+[474517.694] Map Script: Region#	3	has Luxury type	31
+[474517.694] Map Script: Region#	4	has Luxury type	27
+[474517.694] Map Script: Region#	6	has Luxury type	30
+[474517.694] Map Script: Region#	5	has Luxury type	26
+[474517.694] Map Script: Region#	1	has Luxury type	13
+[474517.694] Map Script: -
+[474517.694] Map Script: - - Assigned to City States - -
+[474517.694] Map Script: Luxury type	33
+[474517.694] Map Script: Luxury type	22
+[474517.694] Map Script: Luxury type	41
+[474517.694] Map Script: -
+[474517.694] Map Script: - - Assigned to Random - -
+[474517.694] Map Script: Luxury type	24
+[474517.694] Map Script: Luxury type	21
+[474517.694] Map Script: Luxury type	15
+[474517.694] Map Script: Luxury type	20
+[474517.694] Map Script: Luxury type	23
+[474517.694] Map Script: Luxury type	25
+[474517.694] Map Script: Luxury type	16
+[474517.694] Map Script: -
+[474517.694] Map Script: - - Luxuries handled via Special Case - -
+[474517.694] Map Script: Luxury type	18
+[474517.694] Map Script: -
+[474517.694] Map Script: - - Disabled - -
+[474517.694] Map Script: Luxury type	34
+[474517.694] Map Script: Luxury type	19
+[474517.694] Map Script: Luxury type	14
+[474517.694] Map Script: Luxury type	32
+[474517.695] Map Script: - - - - - - - - - - - - - - - -
+[474517.695] Map Script: Map Generation - Placing City States
+[474517.695] Map Script: Map Generation - Choosing sites for City States
+[474517.703] Map Script: All city states assigned.
+[474517.745] Map Script: Map Generation - Placing Luxuries
+[474517.745] Map Script: -
+[474517.745] Map Script: Attempting to place Luxury#	17	at start plot	25	22	in Region#	2
+[474517.745] Map Script: -
+[474517.745] Map Script: Attempting to place Luxury#	31	at start plot	11	39	in Region#	3
+[474517.746] Map Script: -
+[474517.746] Map Script: Attempting to place Luxury#	27	at start plot	23	36	in Region#	4
+[474517.746] Map Script: -
+[474517.746] Map Script: Attempting to place Luxury#	30	at start plot	50	38	in Region#	6
+[474517.746] Map Script: -
+[474517.746] Map Script: Attempting to place Luxury#	26	at start plot	70	15	in Region#	5
+[474517.746] Map Script: -
+[474517.746] Map Script: Attempting to place Luxury#	13	at start plot	14	13	in Region#	1
+[474517.746] Map Script: -
+[474517.747] Map Script: -
+[474517.747] Map Script: -Assigned Luxury Type	22	to City State#	1
+[474517.747] Map Script: -
+[474517.747] Map Script: -
+[474517.747] Map Script: -Assigned Luxury Type	24	to City State#	2
+[474517.747] Map Script: -
+[474517.747] Map Script: -
+[474517.747] Map Script: -Assigned Luxury Type	20	to City State#	3
+[474517.747] Map Script: -
+[474517.747] Map Script: -
+[474517.747] Map Script: -Assigned Luxury Type	15	to City State#	4
+[474517.748] Map Script: -
+[474517.748] Map Script: -
+[474517.748] Map Script: -Assigned Luxury Type	21	to City State#	5
+[474517.748] Map Script: -
+[474517.748] Map Script: -
+[474517.748] Map Script: -Assigned Luxury Type	25	to City State#	6
+[474517.748] Map Script: -
+[474517.749] Map Script: -
+[474517.749] Map Script: -Assigned Luxury Type	20	to City State#	8
+[474517.749] Map Script: -
+[474517.749] Map Script: -
+[474517.749] Map Script: -Assigned Luxury Type	20	to City State#	9
+[474517.749] Map Script: -
+[474517.749] Map Script: -
+[474517.749] Map Script: -Assigned Luxury Type	15	to City State#	10
+[474517.749] Map Script: -
+[474517.749] Map Script: -
+[474517.750] Map Script: -Assigned Luxury Type	22	to City State#	11
+[474517.750] Map Script: -
+[474517.750] Map Script: -
+[474517.750] Map Script: -Assigned Luxury Type	22	to City State#	12
+[474517.750] Map Script: -
+[474517.750] Map Script: -
+[474517.750] Map Script: -Assigned Luxury Type	15	to City State#	13
+[474517.750] Map Script: -
+[474517.750] Map Script: -
+[474517.750] Map Script: -Assigned Luxury Type	23	to City State#	14
+[474517.751] Map Script: -
+[474517.751] Map Script: -
+[474517.751] Map Script: -Assigned Luxury Type	24	to City State#	15
+[474517.751] Map Script: -
+[474517.751] Map Script: -
+[474517.751] Map Script: -Assigned Luxury Type	24	to City State#	16
+[474517.751] Map Script: -
+[474517.751] Map Script: - - -
+[474517.751] Map Script: Attempting to place regional luxury #	13	in Region#	1
+[474517.753] Map Script: -
+[474517.753] Map Script: - - -
+[474517.753] Map Script: Attempting to place regional luxury #	17	in Region#	2
+[474517.755] Map Script: -
+[474517.755] Map Script: - - -
+[474517.755] Map Script: Attempting to place regional luxury #	31	in Region#	3
+[474517.757] Map Script: -
+[474517.757] Map Script: - - -
+[474517.757] Map Script: Attempting to place regional luxury #	27	in Region#	4
+[474517.758] Map Script: -
+[474517.758] Map Script: - - -
+[474517.758] Map Script: Attempting to place regional luxury #	26	in Region#	5
+[474517.760] Map Script: -
+[474517.760] Map Script: - - -
+[474517.760] Map Script: Attempting to place regional luxury #	30	in Region#	6
+[474517.762] Map Script: * *
+[474517.762] Map Script: * iNumTypesRandom = 	7
+[474517.762] Map Script: * *
+[474517.762] Map Script: iNumRandomLuxTarget = 9. Just putting in 3 of each random.
+[474517.763] Map Script: -
+[474517.763] Map Script: Random Luxury Target Number:	3
+[474517.763] Map Script: Random Luxury Target Placed:	3
+[474517.763] Map Script: -
+[474517.764] Map Script: -
+[474517.764] Map Script: Random Luxury Target Number:	3
+[474517.764] Map Script: Random Luxury Target Placed:	3
+[474517.764] Map Script: -
+[474517.764] Map Script: -
+[474517.765] Map Script: Random Luxury Target Number:	3
+[474517.765] Map Script: Random Luxury Target Placed:	3
+[474517.765] Map Script: -
+[474517.765] Map Script: -
+[474517.765] Map Script: Random Luxury Target Number:	3
+[474517.765] Map Script: Random Luxury Target Placed:	3
+[474517.765] Map Script: -
+[474517.766] Map Script: -
+[474517.766] Map Script: Random Luxury Target Number:	3
+[474517.766] Map Script: Random Luxury Target Placed:	3
+[474517.766] Map Script: -
+[474517.766] Map Script: -
+[474517.767] Map Script: Random Luxury Target Number:	3
+[474517.767] Map Script: Random Luxury Target Placed:	3
+[474517.767] Map Script: -
+[474517.767] Map Script: -
+[474517.767] Map Script: Random Luxury Target Number:	3
+[474517.767] Map Script: Random Luxury Target Placed:	3
+[474517.767] Map Script: -
+[474517.767] Map Script: -
+[474517.767] Map Script: --- Eligible Types List for Second Luxury in Region#	1	---
+[474517.767] Map Script: - Found eligible luxury type:	18
+[474517.767] Map Script: --- End of Eligible Types list for Second Luxury in Region#	1	---
+[474517.768] Map Script: -
+[474517.768] Map Script: Placed Second Luxury type of ID#	16	for start located at Plot	14	13	 in Region#	1
+[474517.768] Map Script: -
+[474517.768] Map Script: --- Eligible Types List for Second Luxury in Region#	2	---
+[474517.768] Map Script: - Found eligible luxury type:	18
+[474517.768] Map Script: --- End of Eligible Types list for Second Luxury in Region#	2	---
+[474517.768] Map Script: -
+[474517.768] Map Script: Placed Second Luxury type of ID#	15	for start located at Plot	25	22	 in Region#	2
+[474517.768] Map Script: -
+[474517.768] Map Script: --- Eligible Types List for Second Luxury in Region#	3	---
+[474517.768] Map Script: - Found eligible luxury type:	18
+[474517.768] Map Script: --- End of Eligible Types list for Second Luxury in Region#	3	---
+[474517.771] Map Script: -
+[474517.771] Map Script: Placed Second Luxury type of ID#	18	for start located at Plot	11	39	 in Region#	3
+[474517.773] Map Script: -
+[474517.773] Map Script: --- Eligible Types List for Second Luxury in Region#	4	---
+[474517.773] Map Script: - Found eligible luxury type:	18
+[474517.773] Map Script: --- End of Eligible Types list for Second Luxury in Region#	4	---
+[474517.773] Map Script: -
+[474517.773] Map Script: Placed Second Luxury type of ID#	18	for start located at Plot	23	36	 in Region#	4
+[474517.774] Map Script: -
+[474517.774] Map Script: --- Eligible Types List for Second Luxury in Region#	5	---
+[474517.774] Map Script: - Found eligible luxury type:	18
+[474517.774] Map Script: --- End of Eligible Types list for Second Luxury in Region#	5	---
+[474517.774] Map Script: -
+[474517.774] Map Script: Placed Second Luxury type of ID#	18	for start located at Plot	70	15	 in Region#	5
+[474517.774] Map Script: -
+[474517.774] Map Script: --- Eligible Types List for Second Luxury in Region#	6	---
+[474517.774] Map Script: - Found eligible luxury type:	18
+[474517.774] Map Script: --- End of Eligible Types list for Second Luxury in Region#	6	---
+[474517.774] Map Script: -
+[474517.775] Map Script: Placed Second Luxury type of ID#	23	for start located at Plot	50	38	 in Region#	6
+[474517.775] Map Script: Map Generation - Placing Strategics
+[474517.855] Map Script: Map Generation - Placing Bonuses
+[474517.983] Map Script: Map Generation - Normalize City State Locations
+[474518.058] Map Script: -
+[474518.058] Map Script: --- Table of Results, New Start Finder ---
+[474518.058] Map Script: -
+[474518.058] Map Script: Region#	1	 has start plot at: 	14	13	with Fertility Rating of 	211
+[474518.058] Map Script: -
+[474518.058] Map Script: Region#	2	 has start plot at: 	25	22	with Fertility Rating of 	197
+[474518.058] Map Script: -
+[474518.058] Map Script: Region#	3	 has start plot at: 	11	39	with Fertility Rating of 	260
+[474518.058] Map Script: -
+[474518.058] Map Script: Region#	4	 has start plot at: 	23	36	with Fertility Rating of 	272
+[474518.058] Map Script: -
+[474518.058] Map Script: Region#	5	 has start plot at: 	70	15	with Fertility Rating of 	255
+[474518.058] Map Script: -
+[474518.058] Map Script: Region#	6	 has start plot at: 	50	38	with Fertility Rating of 	273
+[474518.058] Map Script: -
+[474518.058] Map Script: --- End of Start Finder Results Table ---
+[474518.058] Map Script: -
+[474518.058] Map Script: -
+[474518.058] Map Script: --- Table of Final Results, City State Placements ---
+[474518.058] Map Script: -
+[474518.058] Map Script: - City State	1	in Region	1	is located at Plot	3	28
+[474518.058] Map Script: - City State	2	in Region	2	is located at Plot	30	27
+[474518.058] Map Script: - City State	3	in Region	3	is located at Plot	16	45
+[474518.059] Map Script: - City State	4	in Region	4	is located at Plot	29	37
+[474518.059] Map Script: - City State	5	in Region	5	is located at Plot	59	17
+[474518.059] Map Script: - City State	6	in Region	6	is located at Plot	47	29
+[474518.059] Map Script: - City State	7	in Region	-1	is located at Plot	52	12
+[474518.059] Map Script: - City State	8	in Region	-1	is located at Plot	70	38
+[474518.059] Map Script: - City State	9	in Region	-1	is located at Plot	73	44
+[474518.059] Map Script: - City State	10	in Region	-1	is located at Plot	36	34
+[474518.059] Map Script: - City State	11	in Region	-1	is located at Plot	72	32
+[474518.059] Map Script: - City State	12	in Region	3	is located at Plot	0	39
+[474518.059] Map Script: - City State	13	in Region	6	is located at Plot	55	27
+[474518.059] Map Script: - City State	14	in Region	4	is located at Plot	17	32
+[474518.059] Map Script: - City State	15	in Region	1	is located at Plot	8	27
+[474518.059] Map Script: - City State	16	in Region	2	is located at Plot	27	30
+[474518.059] Map Script: -
+[474518.059] Map Script: - - - - -
+[474518.059] Map Script: -
+[474518.059] Map Script: --- Table of Final Results, Resource Distribution ---
+[474518.059] Map Script: -
+[474518.059] Map Script: - LUXURY Resources -
+[474518.059] Map Script: - Whale...: 	7
+[474518.059] Map Script: - Pearls..: 	0
+[474518.059] Map Script: - Gold....: 	7
+[474518.059] Map Script: - Silver..: 	4
+[474518.059] Map Script: - Gems....: 	6
+[474518.059] Map Script: - Marble..: 	5
+[474518.059] Map Script: - Ivory...: 	0
+[474518.059] Map Script: - Fur.....: 	6
+[474518.059] Map Script: - Dye.....: 	4
+[474518.059] Map Script: - Spices..: 	3
+[474518.059] Map Script: - Silk....: 	5
+[474518.059] Map Script: - Sugar...: 	6
+[474518.059] Map Script: - Cotton..: 	4
+[474518.059] Map Script: - Wine....: 	6
+[474518.059] Map Script: - Incense.: 	7
+[474518.059] Map Script: - Expansion LUXURY Resources -
+[474518.059] Map Script: - Copper..: 	7
+[474518.059] Map Script: - Salt....: 	7
+[474518.059] Map Script: - Citrus..: 	0
+[474518.059] Map Script: - Truffles: 	0
+[474518.059] Map Script: - Crab....: 	0
+[474518.059] Map Script: - Cocoa...: 	0
+[474518.060] Map Script: -
+[474518.060] Map Script: + TOTAL.Lux: 	115
+[474518.060] Map Script: -
+[474518.060] Map Script: - STRATEGIC Resources -
+[474518.060] Map Script: - Iron....: 	68
+[474518.060] Map Script: - Horse...: 	62
+[474518.060] Map Script: - Coal....: 	64
+[474518.060] Map Script: - Oil.....: 	149
+[474518.060] Map Script: - Aluminum: 	60
+[474518.060] Map Script: - Uranium.: 	20
+[474518.060] Map Script: -
+[474518.060] Map Script: - BONUS Resources -
+[474518.060] Map Script: - Cow.....: 	15
+[474518.060] Map Script: - Wheat...: 	14
+[474518.060] Map Script: - Sheep...: 	17
+[474518.060] Map Script: - Deer....: 	17
+[474518.060] Map Script: - Banana..: 	8
+[474518.060] Map Script: - Fish....: 	82
+[474518.060] Map Script: - Stone...: 	21
+[474518.060] Map Script: - Bison...: 	6
+[474518.060] Map Script: -
+[474518.060] Map Script: -----------------------------------------------------
+[474518.060] Map Script: -------------------------------
+[474518.060] Map Script: Map Generation - Adding Goodies
+[474518.085] Map Script: -------------------------------
+[474518.085] Map Script: Determining continents for art purposes (MapGenerator.Lua)
+[474532.498] CivilopediaScreen: SetSelectedCategory(12)
+[474532.498] CivilopediaScreen: CivilopediaCategory[CategoryTerrain].DisplayList
+[474532.525] CivilopediaScreen: SetSelectedCategory(1)
+[474532.526] CivilopediaScreen: CivilopediaCategory[CategoryHomePage].DisplayList
+[474533.081] Tutorial: Loaded Additional Tutorial checks - Assets\DLC\Expansion2\Tutorial\Lua\TutorialInclude_Expansion2.lua
+[474533.081] Tutorial: Loaded Additional Tutorial checks - Assets\DLC\Expansion\Tutorial\lua\TutorialInclude_Expansion1.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\DLC\Expansion2\UI\InGame\PopupsGeneric\ConfirmImprovementRebuildPopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\DLC\Expansion2\UI\InGame\PopupsGeneric\DeclareWarMovePopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\DLC\Expansion2\UI\InGame\PopupsGeneric\PuppetCityPopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\DLC\Expansion2\UI\InGame\PopupsGeneric\DeclareWarPlunderTradeRoutePopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\DLC\Expansion2\UI\InGame\PopupsGeneric\DeclareWarRangeStrikePopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\ConfirmImprovementRebuildPopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\NetworkKickedPopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\CityPlotManagementPopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\ConfirmCommandPopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\MinorCivEnterTerritoryPopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\LiberateMinorPopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\ReturnCivilianPopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\AnnexCityPopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\DeclareWarMovePopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\BarbarianRansomPopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\ConfirmGiftPopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\ConfirmCityTaskPopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\PuppetCityPopup.lua
+[474533.789] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\DeclareWarRangeStrikePopup.lua
+[474533.790] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\ConfirmPolicyBranchPopup.lua
+[474533.790] GenericPopup: Loaded Popup - Assets\UI\InGame\PopupsGeneric\MinorCivGoldPopup.lua
+[474534.040] EconomicGeneralInfo: Total Units - 2
+[474534.040] EconomicGeneralInfo: Maint Free Units - 0
+[474534.040] EconomicGeneralInfo: Paid Units - 2
+[474534.048] EconomicGeneralInfo: Total Units - 2
+[474534.048] EconomicGeneralInfo: Maint Free Units - 0
+[474534.048] EconomicGeneralInfo: Paid Units - 2
+[474534.437] ChoosePantheonPopup: -220
+[474534.437] ChoosePantheonPopup: 963
+[474534.437] ChoosePantheonPopup: 743
+[474534.556] ChooseIdeologyPopup: -220
+[474534.556] ChooseIdeologyPopup: 963
+[474534.556] ChooseIdeologyPopup: 743
+[474534.701] OptionsMenu: Max resolution: 3360 x 2100
+[474534.705] OptionsMenu: Max resolution: 3360 x 2100
+[474535.262] AdvisorInfoPopup: Closing Advisor Info
+[474535.262] Demographics: Dequeuing demographics
+[474535.262] Demographics: Dequeuing demographics
+[474548.487] InGame: OnInterfaceModeChanged
+[474548.487] InGame: oldInterfaceMode: 1
+[474548.487] InGame: newInterfaceMode: 3
+[474552.420] InGame: OnInterfaceModeChanged
+[474552.420] InGame: oldInterfaceMode: 3
+[474552.420] InGame: newInterfaceMode: 1
+[474580.264] NotificationPanel: Attempt to remove unknown Notification 0
+[474582.533] TechPopup: stealingTechTargetPlayerID: -1
+[474582.533] TechPopup: iValue: 0
+[474586.254] InGame: OnInterfaceModeChanged
+[474586.254] InGame: oldInterfaceMode: 1
+[474586.254] InGame: newInterfaceMode: 3
+[474589.482] InGame: OnInterfaceModeChanged
+[474589.482] InGame: oldInterfaceMode: 3
+[474589.482] InGame: newInterfaceMode: 1
+[474604.442] InGame: OnInterfaceModeChanged
+[474604.442] InGame: oldInterfaceMode: 1
+[474604.442] InGame: newInterfaceMode: 3
+[474605.377] InGame: OnInterfaceModeChanged
+[474605.377] InGame: oldInterfaceMode: 3
+[474605.377] InGame: newInterfaceMode: 1
+[474614.813] InGame: OnInterfaceModeChanged
+[474614.813] InGame: oldInterfaceMode: 1
+[474614.813] InGame: newInterfaceMode: 3
+[474615.873] InGame: OnInterfaceModeChanged
+[474615.873] InGame: oldInterfaceMode: 3
+[474615.873] InGame: newInterfaceMode: 1
+[474628.645] InGame: OnInterfaceModeChanged
+[474628.645] InGame: oldInterfaceMode: 1
+[474628.645] InGame: newInterfaceMode: 3
+[474630.904] InGame: OnInterfaceModeChanged
+[474630.904] InGame: oldInterfaceMode: 3
+[474630.904] InGame: newInterfaceMode: 1
+[474635.354] NotificationPanel: Attempt to remove unknown Notification 1
+[474640.951] InGame: OnInterfaceModeChanged
+[474640.952] InGame: oldInterfaceMode: 1
+[474640.952] InGame: newInterfaceMode: 3
+[474641.926] InGame: OnInterfaceModeChanged
+[474641.926] InGame: oldInterfaceMode: 3
+[474641.926] InGame: newInterfaceMode: 1
+[474655.816] InGame: OnInterfaceModeChanged
+[474655.817] InGame: oldInterfaceMode: 1
+[474655.817] InGame: newInterfaceMode: 3
+[474657.520] InGame: OnInterfaceModeChanged
+[474657.520] InGame: oldInterfaceMode: 3
+[474657.520] InGame: newInterfaceMode: 1
+[474667.387] NotificationPanel: Attempt to remove unknown Notification 2
+[474673.909] InGame: OnInterfaceModeChanged
+[474673.909] InGame: oldInterfaceMode: 1
+[474673.909] InGame: newInterfaceMode: 3
+[474675.059] InGame: OnInterfaceModeChanged
+[474675.060] InGame: oldInterfaceMode: 3
+[474675.060] InGame: newInterfaceMode: 1
+[474698.070] TechPopup: stealingTechTargetPlayerID: -1
+[474698.070] TechPopup: iValue: 0
+[474708.557] NotificationPanel: Attempt to remove unknown Notification 3
+[474712.204] NotificationPanel: Attempt to remove unknown Notification 4
+[474722.563] NotificationPanel: Attempt to remove unknown Notification 5
+[474728.600] InGame: OnInterfaceModeChanged
+[474728.601] InGame: oldInterfaceMode: 1
+[474728.601] InGame: newInterfaceMode: 3
+[474729.599] InGame: OnInterfaceModeChanged
+[474729.600] InGame: oldInterfaceMode: 3
+[474729.600] InGame: newInterfaceMode: 1
+[474763.732] NotificationPanel: Attempt to remove unknown Notification 6
+[474770.468] InGame: OnInterfaceModeChanged
+[474770.468] InGame: oldInterfaceMode: 1
+[474770.469] InGame: newInterfaceMode: 3
+[474772.485] InGame: OnInterfaceModeChanged
+[474772.485] InGame: oldInterfaceMode: 3
+[474772.485] InGame: newInterfaceMode: 1
+[474784.562] NotificationPanel: Attempt to remove unknown Notification 7
+[474813.722] InGame: OnInterfaceModeChanged
+[474813.722] InGame: oldInterfaceMode: 1
+[474813.722] InGame: newInterfaceMode: 10
+[474815.613] InGame: OnInterfaceModeChanged
+[474815.613] InGame: oldInterfaceMode: 10
+[474815.613] InGame: newInterfaceMode: 1
+[474820.214] InGame: OnInterfaceModeChanged
+[474820.214] InGame: oldInterfaceMode: 1
+[474820.214] InGame: newInterfaceMode: 3
+[474825.114] InGame: OnInterfaceModeChanged
+[474825.114] InGame: oldInterfaceMode: 3
+[474825.114] InGame: newInterfaceMode: 1
+[474836.325] InGame: OnInterfaceModeChanged
+[474836.325] InGame: oldInterfaceMode: 1
+[474836.325] InGame: newInterfaceMode: 3
+[474838.759] InGame: OnInterfaceModeChanged
+[474838.759] InGame: oldInterfaceMode: 3
+[474838.759] InGame: newInterfaceMode: 1
+[474842.250] NotificationPanel: Attempt to remove unknown Notification 8
+[474844.079] TechPopup: stealingTechTargetPlayerID: -1
+[474844.079] TechPopup: iValue: 0
+[474847.544] InGame: OnInterfaceModeChanged
+[474847.544] InGame: oldInterfaceMode: 1
+[474847.544] InGame: newInterfaceMode: 10
+[474851.129] InGame: OnInterfaceModeChanged
+[474851.129] InGame: oldInterfaceMode: 10
+[474851.129] InGame: newInterfaceMode: 1
+[474853.649] InGame: OnInterfaceModeChanged
+[474853.649] InGame: oldInterfaceMode: 1
+[474853.649] InGame: newInterfaceMode: 3
+[474855.712] InGame: OnInterfaceModeChanged
+[474855.712] InGame: oldInterfaceMode: 3
+[474855.712] InGame: newInterfaceMode: 1
+[474858.142] NotificationPanel: Attempt to remove unknown Notification 9
+[474868.415] InGame: OnInterfaceModeChanged
+[474868.416] InGame: oldInterfaceMode: 1
+[474868.416] InGame: newInterfaceMode: 10
+[474870.306] InGame: OnInterfaceModeChanged
+[474870.306] InGame: oldInterfaceMode: 10
+[474870.306] InGame: newInterfaceMode: 1
+[474881.083] InGame: OnInterfaceModeChanged
+[474881.083] InGame: oldInterfaceMode: 1
+[474881.083] InGame: newInterfaceMode: 10
+[474882.440] InGame: OnInterfaceModeChanged
+[474882.440] InGame: oldInterfaceMode: 10
+[474882.440] InGame: newInterfaceMode: 3
+[474884.875] InGame: OnInterfaceModeChanged
+[474884.875] InGame: oldInterfaceMode: 3
+[474884.875] InGame: newInterfaceMode: 1
+[474887.171] NotificationPanel: Attempt to remove unknown Notification 10
+[474901.979] InGame: OnInterfaceModeChanged
+[474901.979] InGame: oldInterfaceMode: 1
+[474901.979] InGame: newInterfaceMode: 10
+[474903.877] InGame: OnInterfaceModeChanged
+[474903.877] InGame: oldInterfaceMode: 10
+[474903.877] InGame: newInterfaceMode: 1
+[474903.965] NotificationPanel: Attempt to remove unknown Notification 11
+[474915.317] InGame: OnInterfaceModeChanged
+[474915.317] InGame: oldInterfaceMode: 1
+[474915.317] InGame: newInterfaceMode: 3
+[474916.546] InGame: OnInterfaceModeChanged
+[474916.546] InGame: oldInterfaceMode: 3
+[474916.546] InGame: newInterfaceMode: 1
+[474926.410] SocialPolicyPopup: In UpdateDisplay()
+[474940.888] NotificationPanel: Attempt to remove unknown Notification 12
+[474950.554] SocialPolicyPopup: In UpdateDisplay()
+[474961.281] InGame: OnInterfaceModeChanged
+[474961.281] InGame: oldInterfaceMode: 1
+[474961.281] InGame: newInterfaceMode: 10
+[474963.330] InGame: OnInterfaceModeChanged
+[474963.330] InGame: oldInterfaceMode: 10
+[474963.330] InGame: newInterfaceMode: 1
+[474996.380] TechPopup: stealingTechTargetPlayerID: -1
+[474996.380] TechPopup: iValue: 0
+[474998.652] NotificationPanel: Attempt to remove unknown Notification 13
+[475000.734] InGame: OnInterfaceModeChanged
+[475000.734] InGame: oldInterfaceMode: 1
+[475000.734] InGame: newInterfaceMode: 3
+[475003.214] InGame: OnInterfaceModeChanged
+[475003.215] InGame: oldInterfaceMode: 3
+[475003.215] InGame: newInterfaceMode: 1
+[475009.899] InGame: OnInterfaceModeChanged
+[475009.899] InGame: oldInterfaceMode: 1
+[475009.899] InGame: newInterfaceMode: 3
+[475011.601] InGame: OnInterfaceModeChanged
+[475011.601] InGame: oldInterfaceMode: 3
+[475011.601] InGame: newInterfaceMode: 1
+[475017.949] NotificationPanel: Attempt to remove unknown Notification 14
+[475040.062] NotificationPanel: Attempt to remove unknown Notification 15
+[475051.789] NotificationPanel: Attempt to remove unknown Notification 16
+[475051.789] NotificationPanel: Attempt to remove unknown Notification 17
+[475066.044] NotificationPanel: Attempt to remove unknown Notification 19
+[475095.071] NotificationPanel: Attempt to remove unknown Notification 20
+[475097.186] NotificationPanel: Attempt to remove unknown Notification 18
+[475111.648] SocialPolicyPopup: In UpdateDisplay()
+[475141.333] SocialPolicyPopup: In UpdateDisplay()
+[475160.105] InGame: OnInterfaceModeChanged
+[475160.105] InGame: oldInterfaceMode: 1
+[475160.105] InGame: newInterfaceMode: 3
+[475160.873] InGame: OnInterfaceModeChanged
+[475160.873] InGame: oldInterfaceMode: 3
+[475160.873] InGame: newInterfaceMode: 1
+[475174.927] ActionInfoPanel: UI thinks that we can't end turn, but the notification system disagrees
+[475194.254] NotificationPanel: Attempt to remove unknown Notification 22
+[475194.256] NotificationPanel: Attempt to remove unknown Notification 21
+[475207.102] TechPopup: stealingTechTargetPlayerID: -1
+[475207.102] TechPopup: iValue: 0
+[475212.141] TechTree: popupInfo.Data1: 0
+[475212.141] TechTree: popupInfo.Data2: -1
+[475212.141] TechTree: popupInfo.Data3: 0
+[475234.783] NotificationPanel: Attempt to remove unknown Notification 24
+[475234.785] NotificationPanel: Attempt to remove unknown Notification 23
+[475234.785] NotificationPanel: Attempt to remove unknown Notification 25
+[475252.615] InGame: OnInterfaceModeChanged
+[475252.615] InGame: oldInterfaceMode: 1
+[475252.615] InGame: newInterfaceMode: 3
+[475253.839] InGame: OnInterfaceModeChanged
+[475253.839] InGame: oldInterfaceMode: 3
+[475253.839] InGame: newInterfaceMode: 1
+[475265.486] NotificationPanel: Attempt to remove unknown Notification 28
+[475269.617] InGame: OnInterfaceModeChanged
+[475269.617] InGame: oldInterfaceMode: 1
+[475269.617] InGame: newInterfaceMode: 3
+[475270.686] InGame: OnInterfaceModeChanged
+[475270.686] InGame: oldInterfaceMode: 3
+[475270.686] InGame: newInterfaceMode: 1
+[475270.822] NotificationPanel: Attempt to remove unknown Notification 29
+[475290.013] NotificationPanel: Attempt to remove unknown Notification 27
+[475290.987] NotificationPanel: Attempt to remove unknown Notification 26
+[475310.163] InGame: OnInterfaceModeChanged
+[475310.163] InGame: oldInterfaceMode: 1
+[475310.163] InGame: newInterfaceMode: 3
+[475311.118] InGame: OnInterfaceModeChanged
+[475311.118] InGame: oldInterfaceMode: 3
+[475311.118] InGame: newInterfaceMode: 1
+[475312.235] NotificationPanel: Attempt to remove unknown Notification 30
+[475318.607] InGame: OnInterfaceModeChanged
+[475318.607] InGame: oldInterfaceMode: 1
+[475318.607] InGame: newInterfaceMode: 3
+[475324.969] InGame: OnInterfaceModeChanged
+[475324.969] InGame: oldInterfaceMode: 3
+[475324.969] InGame: newInterfaceMode: 1
+[475326.623] NotificationPanel: Attempt to remove unknown Notification 31
+[475327.358] InGame: OnInterfaceModeChanged
+[475327.358] InGame: oldInterfaceMode: 1
+[475327.358] InGame: newInterfaceMode: 3
+[475328.939] InGame: OnInterfaceModeChanged
+[475328.939] InGame: oldInterfaceMode: 3
+[475328.939] InGame: newInterfaceMode: 1
+[475338.559] InGame: OnInterfaceModeChanged
+[475338.559] InGame: oldInterfaceMode: 1
+[475338.559] InGame: newInterfaceMode: 3
+[475340.140] NotificationPanel: Attempt to remove unknown Notification 33
+[475340.552] InGame: OnInterfaceModeChanged
+[475340.553] InGame: oldInterfaceMode: 3
+[475340.553] InGame: newInterfaceMode: 1
+[475346.664] SocialPolicyPopup: In UpdateDisplay()
+[475352.791] SocialPolicyPopup: Clicked on Policy: 14
+[475352.791] SocialPolicyPopup: bHasPolicy: false
+[475352.791] SocialPolicyPopup: bCanAdoptPolicy: true
+[475352.791] SocialPolicyPopup: Policy Blocked: false
+[475353.807] SocialPolicyPopup: In UpdateDisplay()
+[475359.913] NotificationPanel: Attempt to remove unknown Notification 32
+[475369.622] InGame: OnInterfaceModeChanged
+[475369.622] InGame: oldInterfaceMode: 1
+[475369.622] InGame: newInterfaceMode: 3
+[475372.154] InGame: OnInterfaceModeChanged
+[475372.154] InGame: oldInterfaceMode: 3
+[475372.154] InGame: newInterfaceMode: 1
+[475374.022] NotificationPanel: Attempt to remove unknown Notification 34
+[475374.540] InGame: OnInterfaceModeChanged
+[475374.541] InGame: oldInterfaceMode: 1
+[475374.541] InGame: newInterfaceMode: 3
+[475375.574] InGame: OnInterfaceModeChanged
+[475375.574] InGame: oldInterfaceMode: 3
+[475375.574] InGame: newInterfaceMode: 1
+[475378.016] InGame: OnInterfaceModeChanged
+[475378.016] InGame: oldInterfaceMode: 1
+[475378.017] InGame: newInterfaceMode: 10
+[475379.395] InGame: OnInterfaceModeChanged
+[475379.396] InGame: oldInterfaceMode: 10
+[475379.396] InGame: newInterfaceMode: 1
+[475380.920] NotificationPanel: Attempt to remove unknown Notification 35
+[475381.977] InGame: OnInterfaceModeChanged
+[475381.977] InGame: oldInterfaceMode: 1
+[475381.977] InGame: newInterfaceMode: 10
+[475383.645] InGame: OnInterfaceModeChanged
+[475383.646] InGame: oldInterfaceMode: 10
+[475383.646] InGame: newInterfaceMode: 1
+[475390.565] TechPopup: stealingTechTargetPlayerID: -1
+[475390.565] TechPopup: iValue: 0
+[475413.225] NotificationPanel: Attempt to remove unknown Notification 37
+[475421.680] NotificationPanel: Attempt to remove unknown Notification 40
+[475422.592] InGame: OnInterfaceModeChanged
+[475422.592] InGame: oldInterfaceMode: 1
+[475422.592] InGame: newInterfaceMode: 10
+[475424.799] InGame: OnInterfaceModeChanged
+[475424.799] InGame: oldInterfaceMode: 10
+[475424.799] InGame: newInterfaceMode: 1
+[475431.238] NotificationPanel: Attempt to remove unknown Notification 38
+[475437.086] InGame: OnInterfaceModeChanged
+[475437.086] InGame: oldInterfaceMode: 1
+[475437.086] InGame: newInterfaceMode: 10
+[475439.507] InGame: OnInterfaceModeChanged
+[475439.507] InGame: oldInterfaceMode: 10
+[475439.507] InGame: newInterfaceMode: 1
+[475446.071] NotificationPanel: Attempt to remove unknown Notification 39
+[475456.896] InGame: OnInterfaceModeChanged
+[475456.896] InGame: oldInterfaceMode: 1
+[475456.896] InGame: newInterfaceMode: 10
+[475458.430] InGame: OnInterfaceModeChanged
+[475458.430] InGame: oldInterfaceMode: 10
+[475458.430] InGame: newInterfaceMode: 1
+[475460.467] InGame: OnInterfaceModeChanged
+[475460.467] InGame: oldInterfaceMode: 1
+[475460.467] InGame: newInterfaceMode: 10
+[475462.467] InGame: OnInterfaceModeChanged
+[475462.467] InGame: oldInterfaceMode: 10
+[475462.467] InGame: newInterfaceMode: 1
+[475466.368] NotificationPanel: Attempt to remove unknown Notification 36
+[475476.471] InGame: OnInterfaceModeChanged
+[475476.471] InGame: oldInterfaceMode: 1
+[475476.471] InGame: newInterfaceMode: 10
+[475476.559] NotificationPanel: Attempt to remove unknown Notification 42
+[475478.700] InGame: OnInterfaceModeChanged
+[475478.701] InGame: oldInterfaceMode: 10
+[475478.701] InGame: newInterfaceMode: 1
+[475492.339] NotificationPanel: Attempt to remove unknown Notification 41
+[475492.339] NotificationPanel: Attempt to remove unknown Notification 43
+[475501.570] InGame: OnInterfaceModeChanged
+[475501.570] InGame: oldInterfaceMode: 1
+[475501.570] InGame: newInterfaceMode: 10
+[475505.386] InGame: OnInterfaceModeChanged
+[475505.386] InGame: oldInterfaceMode: 10
+[475505.386] InGame: newInterfaceMode: 3
+[475507.573] InGame: OnInterfaceModeChanged
+[475507.573] InGame: oldInterfaceMode: 3
+[475507.573] InGame: newInterfaceMode: 1
+[475516.036] NotificationPanel: Attempt to remove unknown Notification 45
+[475536.482] InGame: OnInterfaceModeChanged
+[475536.482] InGame: oldInterfaceMode: 1
+[475536.482] InGame: newInterfaceMode: 3
+[475537.384] InGame: OnInterfaceModeChanged
+[475537.384] InGame: oldInterfaceMode: 3
+[475537.384] InGame: newInterfaceMode: 1
+[475538.381] NotificationPanel: Attempt to remove unknown Notification 46
+[475544.072] InGame: OnInterfaceModeChanged
+[475544.072] InGame: oldInterfaceMode: 1
+[475544.072] InGame: newInterfaceMode: 10
+[475546.456] InGame: OnInterfaceModeChanged
+[475546.456] InGame: oldInterfaceMode: 10
+[475546.456] InGame: newInterfaceMode: 1
+[475558.281] TechPopup: stealingTechTargetPlayerID: -1
+[475558.281] TechPopup: iValue: 0
+[475573.203] NotificationPanel: Attempt to remove unknown Notification 47
+[475575.503] NotificationPanel: Attempt to remove unknown Notification 44
+[475575.503] NotificationPanel: Attempt to remove unknown Notification 48
+[475583.894] SocialPolicyPopup: In UpdateDisplay()
+[475600.651] SocialPolicyPopup: Clicked on Policy: 13
+[475600.651] SocialPolicyPopup: bHasPolicy: false
+[475600.651] SocialPolicyPopup: bCanAdoptPolicy: true
+[475600.651] SocialPolicyPopup: Policy Blocked: false
+[475601.854] SocialPolicyPopup: In UpdateDisplay()
+[475615.376] InGame: OnInterfaceModeChanged
+[475615.376] InGame: oldInterfaceMode: 1
+[475615.376] InGame: newInterfaceMode: 3
+[475617.750] InGame: OnInterfaceModeChanged
+[475617.750] InGame: oldInterfaceMode: 3
+[475617.750] InGame: newInterfaceMode: 1
+[475650.440] NotificationPanel: Attempt to remove unknown Notification 49
+[475664.815] NotificationPanel: Attempt to remove unknown Notification 51
+[475666.231] TechPopup: stealingTechTargetPlayerID: -1
+[475666.231] TechPopup: iValue: 1
+[475694.478] TechPopup: stealingTechTargetPlayerID: -1
+[475694.478] TechPopup: iValue: 0
+[475702.579] NotificationPanel: Attempt to remove unknown Notification 50
+[475710.817] InGame: OnInterfaceModeChanged
+[475710.817] InGame: oldInterfaceMode: 1
+[475710.817] InGame: newInterfaceMode: 3
+[475713.035] InGame: OnInterfaceModeChanged
+[475713.035] InGame: oldInterfaceMode: 3
+[475713.035] InGame: newInterfaceMode: 1
+[475741.697] NotificationPanel: Attempt to remove unknown Notification 53
+[475742.242] NotificationPanel: Attempt to remove unknown Notification 52
+[475785.453] TechPopup: stealingTechTargetPlayerID: -1
+[475785.453] TechPopup: iValue: 0
+[475791.594] NotificationPanel: Attempt to remove unknown Notification 55
+[475801.554] NotificationPanel: Attempt to remove unknown Notification 54
+[475801.554] NotificationPanel: Attempt to remove unknown Notification 56
+[475850.661] NotificationPanel: Attempt to remove unknown Notification 57
+[475864.491] TechPopup: stealingTechTargetPlayerID: -1
+[475864.491] TechPopup: iValue: 0
+[475879.930] TechTree: popupInfo.Data1: 0
+[475879.930] TechTree: popupInfo.Data2: -1
+[475879.930] TechTree: popupInfo.Data3: 0
+[475886.452] NotificationPanel: Attempt to remove unknown Notification 59
+[475934.329] InGame: OnInterfaceModeChanged
+[475934.329] InGame: oldInterfaceMode: 1
+[475934.329] InGame: newInterfaceMode: 3
+[475935.140] InGame: OnInterfaceModeChanged
+[475935.140] InGame: oldInterfaceMode: 3
+[475935.140] InGame: newInterfaceMode: 1
+[475939.877] NotificationPanel: Attempt to remove unknown Notification 58
+[475939.877] NotificationPanel: Attempt to remove unknown Notification 60
+[475990.546] NotificationPanel: Attempt to remove unknown Notification 64
+[475993.026] TechPopup: stealingTechTargetPlayerID: -1
+[475993.026] TechPopup: iValue: 0
+[476025.476] NotificationPanel: Attempt to remove unknown Notification 65
+[476045.679] NotificationPanel: Attempt to remove unknown Notification 62
+[476052.569] NotificationPanel: Attempt to remove unknown Notification 63
+[476061.805] InGame: OnInterfaceModeChanged
+[476061.805] InGame: oldInterfaceMode: 1
+[476061.805] InGame: newInterfaceMode: 21
+[476061.807] InGame: OnInterfaceModeChanged
+[476061.807] InGame: oldInterfaceMode: 21
+[476061.807] InGame: newInterfaceMode: 1
+[476061.809] InGame: OnInterfaceModeChanged
+[476061.809] InGame: oldInterfaceMode: 1
+[476061.809] InGame: newInterfaceMode: 21
+[476063.304] InGame: OnInterfaceModeChanged
+[476063.305] InGame: oldInterfaceMode: 21
+[476063.305] InGame: newInterfaceMode: 1
+[476067.065] InGame: OnInterfaceModeChanged
+[476067.065] InGame: oldInterfaceMode: 1
+[476067.065] InGame: newInterfaceMode: 21
+[476067.069] InGame: OnInterfaceModeChanged
+[476067.069] InGame: oldInterfaceMode: 21
+[476067.069] InGame: newInterfaceMode: 1
+[476067.072] InGame: OnInterfaceModeChanged
+[476067.072] InGame: oldInterfaceMode: 1
+[476067.072] InGame: newInterfaceMode: 21
+[476069.433] InGame: OnInterfaceModeChanged
+[476069.433] InGame: oldInterfaceMode: 21
+[476069.433] InGame: newInterfaceMode: 1
+[476083.958] NotificationPanel: Attempt to remove unknown Notification 61
+[476095.587] InGame: OnInterfaceModeChanged
+[476095.587] InGame: oldInterfaceMode: 1
+[476095.587] InGame: newInterfaceMode: 21
+[476095.589] InGame: OnInterfaceModeChanged
+[476095.589] InGame: oldInterfaceMode: 21
+[476095.589] InGame: newInterfaceMode: 1
+[476095.591] InGame: OnInterfaceModeChanged
+[476095.591] InGame: oldInterfaceMode: 1
+[476095.591] InGame: newInterfaceMode: 21
+[476097.188] InGame: OnInterfaceModeChanged
+[476097.188] InGame: oldInterfaceMode: 21
+[476097.188] InGame: newInterfaceMode: 1
+[476106.931] InGame: OnInterfaceModeChanged
+[476106.932] InGame: oldInterfaceMode: 1
+[476106.932] InGame: newInterfaceMode: 3
+[476108.308] InGame: OnInterfaceModeChanged
+[476108.308] InGame: oldInterfaceMode: 3
+[476108.308] InGame: newInterfaceMode: 1
+[476113.456] NotificationPanel: Attempt to remove unknown Notification 66
+[476113.704] InGame: OnInterfaceModeChanged
+[476113.704] InGame: oldInterfaceMode: 1
+[476113.704] InGame: newInterfaceMode: 3
+[476114.768] InGame: OnInterfaceModeChanged
+[476114.768] InGame: oldInterfaceMode: 3
+[476114.768] InGame: newInterfaceMode: 1
+[476126.598] SocialPolicyPopup: In UpdateDisplay()
+[476158.755] SocialPolicyPopup: Clicked on Policy: 15
+[476158.755] SocialPolicyPopup: bHasPolicy: false
+[476158.755] SocialPolicyPopup: bCanAdoptPolicy: true
+[476158.755] SocialPolicyPopup: Policy Blocked: false
+[476159.626] SocialPolicyPopup: In UpdateDisplay()
+[476174.107] InGame: OnInterfaceModeChanged
+[476174.107] InGame: oldInterfaceMode: 1
+[476174.107] InGame: newInterfaceMode: 3
+[476175.519] InGame: OnInterfaceModeChanged
+[476175.519] InGame: oldInterfaceMode: 3
+[476175.519] InGame: newInterfaceMode: 1
+[476178.015] NotificationPanel: Attempt to remove unknown Notification 67
+[476193.356] TechPopup: stealingTechTargetPlayerID: -1
+[476193.356] TechPopup: iValue: 0
+[476197.512] InGame: OnInterfaceModeChanged
+[476197.513] InGame: oldInterfaceMode: 1
+[476197.513] InGame: newInterfaceMode: 3
+[476198.774] InGame: OnInterfaceModeChanged
+[476198.774] InGame: oldInterfaceMode: 3
+[476198.774] InGame: newInterfaceMode: 1
+[476203.160] NotificationPanel: Attempt to remove unknown Notification 68
+[476216.053] NotificationPanel: Attempt to remove unknown Notification 69
+[476237.425] InGame: OnInterfaceModeChanged
+[476237.425] InGame: oldInterfaceMode: 1
+[476237.425] InGame: newInterfaceMode: 3
+[476238.679] InGame: OnInterfaceModeChanged
+[476238.679] InGame: oldInterfaceMode: 3
+[476238.679] InGame: newInterfaceMode: 1
+[476248.225] NotificationPanel: Attempt to remove unknown Notification 70
+[476261.025] InGame: OnInterfaceModeChanged
+[476261.025] InGame: oldInterfaceMode: 1
+[476261.025] InGame: newInterfaceMode: 10
+[476262.841] InGame: OnInterfaceModeChanged
+[476262.841] InGame: oldInterfaceMode: 10
+[476262.841] InGame: newInterfaceMode: 1
+[476264.671] InGame: OnInterfaceModeChanged
+[476264.671] InGame: oldInterfaceMode: 1
+[476264.671] InGame: newInterfaceMode: 10
+[476268.367] InGame: OnInterfaceModeChanged
+[476268.367] InGame: oldInterfaceMode: 10
+[476268.367] InGame: newInterfaceMode: 1
+[476274.855] InGame: OnInterfaceModeChanged
+[476274.856] InGame: oldInterfaceMode: 1
+[476274.856] InGame: newInterfaceMode: 10
+[476279.239] InGame: OnInterfaceModeChanged
+[476279.239] InGame: oldInterfaceMode: 10
+[476279.240] InGame: newInterfaceMode: 1
+[476298.188] InGame: OnInterfaceModeChanged
+[476298.189] InGame: oldInterfaceMode: 1
+[476298.189] InGame: newInterfaceMode: 21
+[476298.191] InGame: OnInterfaceModeChanged
+[476298.191] InGame: oldInterfaceMode: 21
+[476298.191] InGame: newInterfaceMode: 1
+[476298.195] InGame: OnInterfaceModeChanged
+[476298.195] InGame: oldInterfaceMode: 1
+[476298.195] InGame: newInterfaceMode: 21
+[476299.591] InGame: OnInterfaceModeChanged
+[476299.591] InGame: oldInterfaceMode: 21
+[476299.591] InGame: newInterfaceMode: 1
+[476306.843] InGame: OnInterfaceModeChanged
+[476306.843] InGame: oldInterfaceMode: 1
+[476306.843] InGame: newInterfaceMode: 10
+[476308.924] InGame: OnInterfaceModeChanged
+[476308.924] InGame: oldInterfaceMode: 10
+[476308.924] InGame: newInterfaceMode: 1
+[476310.127] InGame: OnInterfaceModeChanged
+[476310.127] InGame: oldInterfaceMode: 1
+[476310.127] InGame: newInterfaceMode: 10
+[476312.255] InGame: OnInterfaceModeChanged
+[476312.255] InGame: oldInterfaceMode: 10
+[476312.255] InGame: newInterfaceMode: 1
+[476318.200] NotificationPanel: Attempt to remove unknown Notification 72
+[476323.680] NotificationPanel: Attempt to remove unknown Notification 71
+[476335.149] InGame: OnInterfaceModeChanged
+[476335.149] InGame: oldInterfaceMode: 1
+[476335.149] InGame: newInterfaceMode: 21
+[476335.151] InGame: OnInterfaceModeChanged
+[476335.151] InGame: oldInterfaceMode: 21
+[476335.151] InGame: newInterfaceMode: 1
+[476335.153] InGame: OnInterfaceModeChanged
+[476335.153] InGame: oldInterfaceMode: 1
+[476335.153] InGame: newInterfaceMode: 21
+[476336.295] InGame: OnInterfaceModeChanged
+[476336.295] InGame: oldInterfaceMode: 21
+[476336.295] InGame: newInterfaceMode: 1
+[476340.229] NotificationPanel: Attempt to remove unknown Notification 74
+[476358.805] InGame: OnInterfaceModeChanged
+[476358.805] InGame: oldInterfaceMode: 1
+[476358.805] InGame: newInterfaceMode: 10
+[476360.366] InGame: OnInterfaceModeChanged
+[476360.367] InGame: oldInterfaceMode: 10
+[476360.367] InGame: newInterfaceMode: 1
+[476364.439] NotificationPanel: Attempt to remove unknown Notification 73
+[476375.461] ActionInfoPanel: UI thinks that we can't end turn, but the notification system disagrees
+[476378.413] InGame: OnInterfaceModeChanged
+[476378.413] InGame: oldInterfaceMode: 1
+[476378.413] InGame: newInterfaceMode: 21
+[476378.420] InGame: OnInterfaceModeChanged
+[476378.421] InGame: oldInterfaceMode: 21
+[476378.421] InGame: newInterfaceMode: 1
+[476378.423] InGame: OnInterfaceModeChanged
+[476378.423] InGame: oldInterfaceMode: 1
+[476378.423] InGame: newInterfaceMode: 21
+[476380.399] InGame: OnInterfaceModeChanged
+[476380.399] InGame: oldInterfaceMode: 21
+[476380.399] InGame: newInterfaceMode: 1
+[476383.293] InGame: OnInterfaceModeChanged
+[476383.293] InGame: oldInterfaceMode: 1
+[476383.293] InGame: newInterfaceMode: 10
+[476385.036] InGame: OnInterfaceModeChanged
+[476385.037] InGame: oldInterfaceMode: 10
+[476385.037] InGame: newInterfaceMode: 1
+[476394.121] TechPopup: stealingTechTargetPlayerID: -1
+[476394.121] TechPopup: iValue: 0
+[476395.564] NotificationPanel: Attempt to remove unknown Notification 75
+[476406.841] NotificationPanel: Attempt to remove unknown Notification 79
+[476428.350] NotificationPanel: Attempt to remove unknown Notification 77
+[476428.351] NotificationPanel: Attempt to remove unknown Notification 76
+[476428.351] NotificationPanel: Attempt to remove unknown Notification 80
+[476443.474] InGame: OnInterfaceModeChanged
+[476443.474] InGame: oldInterfaceMode: 1
+[476443.474] InGame: newInterfaceMode: 21
+[476443.477] InGame: OnInterfaceModeChanged
+[476443.477] InGame: oldInterfaceMode: 21
+[476443.477] InGame: newInterfaceMode: 1
+[476443.483] InGame: OnInterfaceModeChanged
+[476443.483] InGame: oldInterfaceMode: 1
+[476443.483] InGame: newInterfaceMode: 21
+[476444.950] InGame: OnInterfaceModeChanged
+[476444.950] InGame: oldInterfaceMode: 21
+[476444.950] InGame: newInterfaceMode: 1
+[476447.384] InGame: OnInterfaceModeChanged
+[476447.384] InGame: oldInterfaceMode: 1
+[476447.384] InGame: newInterfaceMode: 3
+[476449.928] InGame: OnInterfaceModeChanged
+[476449.928] InGame: oldInterfaceMode: 3
+[476449.928] InGame: newInterfaceMode: 1
+[476452.868] InGame: OnInterfaceModeChanged
+[476452.868] InGame: oldInterfaceMode: 1
+[476452.868] InGame: newInterfaceMode: 10
+[476455.213] InGame: OnInterfaceModeChanged
+[476455.213] InGame: oldInterfaceMode: 10
+[476455.213] InGame: newInterfaceMode: 1
+[476472.983] NotificationPanel: Attempt to remove unknown Notification 81
+[476472.983] NotificationPanel: Attempt to remove unknown Notification 82
+[476472.985] NotificationPanel: Attempt to remove unknown Notification 78
+[476492.609] InGame: OnInterfaceModeChanged
+[476492.609] InGame: oldInterfaceMode: 1
+[476492.609] InGame: newInterfaceMode: 21
+[476492.611] InGame: OnInterfaceModeChanged
+[476492.611] InGame: oldInterfaceMode: 21
+[476492.611] InGame: newInterfaceMode: 1
+[476492.613] InGame: OnInterfaceModeChanged
+[476492.613] InGame: oldInterfaceMode: 1
+[476492.613] InGame: newInterfaceMode: 21
+[476494.563] InGame: OnInterfaceModeChanged
+[476494.563] InGame: oldInterfaceMode: 21
+[476494.564] InGame: newInterfaceMode: 1
+[476512.726] NotificationPanel: Attempt to remove unknown Notification 83
+[476512.727] NotificationPanel: Attempt to remove unknown Notification 84
+[476527.790] InGame: OnInterfaceModeChanged
+[476527.791] InGame: oldInterfaceMode: 1
+[476527.791] InGame: newInterfaceMode: 21
+[476527.792] InGame: OnInterfaceModeChanged
+[476527.792] InGame: oldInterfaceMode: 21
+[476527.792] InGame: newInterfaceMode: 1
+[476527.794] InGame: OnInterfaceModeChanged
+[476527.794] InGame: oldInterfaceMode: 1
+[476527.794] InGame: newInterfaceMode: 21
+[476528.451] InGame: OnInterfaceModeChanged
+[476528.451] InGame: oldInterfaceMode: 21
+[476528.451] InGame: newInterfaceMode: 1
+[476540.469] OptionsMenu: Max resolution: 3360 x 2100
+[476540.473] OptionsMenu: Max resolution: 3360 x 2100
+[476540.631] InstalledPanel: Refreshing Mods
+[476540.631] InstalledPanel: GetModBrowserListings()
+[476540.633] InstalledPanel: Refreshing Mods
+[476540.633] InstalledPanel: GetModBrowserListings()
