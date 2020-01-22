@@ -93,10 +93,9 @@
 					<span class="label-input100">Choose a database</span>
 					<div>
 						<select class="js-select2" name="database">
-							<option>DB 1</option>
-							<option>DB 2</option>
-							<option>DB 3</option>
-							<option>Online Services</option>
+							{% for item in dbs %}
+							<option>{{ item }}</option>
+							{% endfor %}
 						</select>
 						<div class="dropDownSelect2"></div>
 					</div>

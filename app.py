@@ -38,7 +38,9 @@ def hello_world():
 @app.route("/blast")
 def blast_query():
     """BLAST query page"""
-    return render_template("blast.html")
+    blast_dbs = os.listdir("blast_dbs")
+    print(blast_dbs)
+    return render_template("blast.html", dbs=blast_dbs)
 
 
 @app.route("/run_blast", methods=["POST"])
@@ -59,7 +61,7 @@ def run_blast():
     blast_fu = blast_translate_table[form_data["blast_type"]]("query_file",
                                                               f"blast_dbs/{db}",
                                                               out_file,
-                                                              out_format,
+                                                              out_format=out_format,
                                                               stdout=f"{directory_name}/stdout.txt",
                                                               stderr=f"{directory_name}/stderr.txt")
     print(blast_fu.tid)
@@ -86,7 +88,7 @@ def get_databases():
 
 @bash_app
 def run_blastn(query_file, db, out_file_name, out_format=7,
-               stdout='blastp.stdout', stderr='blastp.stderr'):
+               stdout='blastp.stdout', stderr='blastn.stderr'):
     return f'blastn -query {query_file} -db {db} -out {out_file_name} {out_format}'
 
 
