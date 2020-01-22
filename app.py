@@ -12,13 +12,28 @@ import parsl
 from parsl.app.app import python_app, bash_app
 from parsl.configs.local_threads import config
 
+out_fmt_translate = {
+                        "pairwise": "0",
+    "query-anchored showing identities": "1",
+    "query-anchored no identities": "2",
+    "flat query-anchored, show identities": "3",
+    "flat query-anchored, no identities": "4",
+     "XML Blast output": "5",
+     "tabular": "6",
+     "tabular with comment lines": "7",
+     "Text ASN.1": "8",
+     "Binary ASN.1": "9",
+    "Comma-separated values": "10",
+    "BLAST archive format (ASN.1)": "11" 
+                    }
+
 app = Flask(__name__)
 
 app.config["admin_email"] = "benjamin.glick@ge.com"
 app.secret_key = b'\x9b4\xf8%\x1b\x90\x0e[?\xbd\x14\x7fS\x1c\xe7Y\xd8\x1c\xf9\xda\xb0K=\xba'
 # I will obviously change this secret key before we go live
 
-#parsl.set_stream_logger()
+parsl.set_stream_logger()
 parsl.load(config)
 
 
@@ -104,13 +119,17 @@ def get_databases():
 @bash_app
 def run_blastn(query_file, db, out_file_name, out_format=7,
                stdout='blastp.stdout', stderr='blastn.stderr'):
-    return f'blastn -query {query_file} -db {db} -out {out_file_name} {out_format}'
+    cmd_str = f'blastn -query {query_file} -db {db} -out {out_file_name} -outfmt "{out_fmt_translate[out_format]}"'
+    print(cmd_str)
+    return cmd_str
 
 
 @bash_app
 def run_blastp(query_file, db, out_file_name, out_format=7,
                stdout='blastp.stdout', stderr='blastp.stderr'):
-    return f'blastp -query {query_file} -db {db} -out {out_file_name} {out_format}'
+    cmd_str = f'blastp -query {query_file} -db {db} -out {out_file_name} -outfmt "{out_fmt_translate[out_format]}"'
+    print(cmd_str)
+    return cmd_str
 
 
 blast_translate_table = {"blastn": run_blastn,
