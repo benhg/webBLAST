@@ -28,6 +28,8 @@ out_fmt_translate = {
     "BLAST archive format (ASN.1)": "11" 
                     }
 
+os.environ["BLASTDB"] = "/Users/glick/Desktop/webBLAST/blast_dbs"
+
 app = Flask(__name__)
 
 app.config["admin_email"] = "benjamin.glick@ge.com"
@@ -114,10 +116,6 @@ def check_results_browse(url_file_path):
     if os.path.isfile(nested_file_path):
         return send_file(nested_file_path)
     return abort(500)
-
-def get_databases():
-    """All databases should be stored in a directory of their name in this directory"""
-    pass
 
 
 @bash_app

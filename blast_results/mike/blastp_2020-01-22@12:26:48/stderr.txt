@@ -1,0 +1,1 @@
+BLAST Database error: No alias or index file found for protein database [blast_dbs/uniprot_sprot] in search path [/Users/glick/Desktop/webBLAST::]
