@@ -1,0 +1,5 @@
+CFastaReader: Hyphens are invalid and will be ignored around line 2
+CFastaReader: Hyphens are invalid and will be ignored around line 8
+CFastaReader: Hyphens are invalid and will be ignored around line 11
+CFastaReader: Hyphens are invalid and will be ignored around line 14
+CFastaReader: Hyphens are invalid and will be ignored around line 17
